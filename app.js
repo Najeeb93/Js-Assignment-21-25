@@ -23,7 +23,14 @@
 
 //--Question No: 3
 
-var str = "pakistani";
+// var str = "pakistani";
 
-var index = str.indexOf("n");
-document.write("string: Pakistani"+ "<br>" + "Index of 'n': " + index)
+// var index = str.indexOf("n");
+// document.write("string: Pakistani"+ "<br>" + "Index of 'n': " + index)
+
+//---Question No: 4
+
+var str = "Hello World";
+
+var index = str.lastIndexOf("l");
+document.write("The last index of the letter 'l' in the word 'Hello World' is: " + index);
