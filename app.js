@@ -12,3 +12,10 @@
 // alert("hello " + fullName + "!")
 
 
+
+
+//----- Question No: 2
+
+var mobileModel = prompt("Please enter your  mobile phone model number: ");
+
+document.write(`My favorite phone is: ${mobileModel.length}`)
