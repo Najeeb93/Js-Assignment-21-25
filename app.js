@@ -16,6 +16,14 @@
 
 //----- Question No: 2
 
-var mobileModel = prompt("Please enter your  mobile phone model number: ");
+// var mobileModel = prompt("Please enter your  mobile phone model number: ");
 
-document.write(`My favorite phone is: ${mobileModel.length}`)
+// document.write(`My favorite phone is: ${mobileModel.length}`)
+
+
+//--Question No: 3
+
+var str = "pakistani";
+
+var index = str.indexOf("n");
+document.write("string: Pakistani"+ "<br>" + "Index of 'n': " + index)
