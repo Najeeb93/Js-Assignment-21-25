@@ -70,8 +70,16 @@
 
 //-----Question No: 9
 
-var str = "472";
+// var str = "472";
 
-var num = Number(str);
+// var num = Number(str);
 
-document.write("value:"+ str + "<br>" + typeof(str) + "<br>" + "Value:" + num + "<br>" +typeof(num) )
+// document.write("value:"+ str + "<br>" + typeof(str) + "<br>" + "Value:" + num + "<br>" + typeof(num) )
+
+//----Question No: 10
+
+var userInput = prompt("Please enter a string");
+
+var capitalized = userInput.toLocaleUpperCase();
+
+document.write("The capitalized string is: ", capitalized)
