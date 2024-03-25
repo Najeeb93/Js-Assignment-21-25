@@ -86,8 +86,11 @@
 
 //----Question No: 11
 
-var userInput = prompt("Please enter a string");
+// var userInput = prompt("Please enter a string");
 
-var titleCase = userInput.toLowerCase();
+// var titleCase = userInput.toLowerCase();
 
-document.write("The title cased string is: " + titleCase)
+// document.write("The title cased string is: " + titleCase)
+
+
+//----Question No: 12
