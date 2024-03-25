@@ -38,8 +38,18 @@
 //--- Question No: 5
 
 
-var str = "pakistani";
+// var str = "pakistani";
 
-var char = str.charAt(5);
+// var char = str.charAt(3);
 
-document.write(`srting: pakistani <br> Character at index 3: ${char}`)
+// document.write(`srting: pakistani <br> Character at index 3: ${char}`);
+
+//---Question No: 6
+
+var text1 = "Hello";
+
+var text2 = "World";
+
+var text3 = text1.concat(" ",text2);
+
+document.write(text3)
