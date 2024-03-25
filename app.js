@@ -63,7 +63,15 @@
 
 //---- Question No: 8
 
-var message = "Ali and Sami are best friends. They play cricket and football together:";
+// var message = "Ali and Sami are best friends. They play cricket and football together:";
 
-var newMessage = message.replace(/and/g,"&");
-document.write(newMessage);
+// var newMessage = message.replace(/and/g,"&");
+// document.write(newMessage);
+
+//-----Question No: 9
+
+var str = "472";
+
+var num = Number(str);
+
+document.write("value:"+ str + "<br>" + typeof(str) + "<br>" + "Value:" + num + "<br>" +typeof(num) )
