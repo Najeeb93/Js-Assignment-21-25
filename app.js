@@ -56,7 +56,14 @@
 
 // --- Question No: 7
 
-var str = "Hyderabad";
+// var str = "Hyderabad";
 
-var newStr = str.replace("Hyderabad","Islamabad")
-document.write("City:Hyderabad","<br>","After replacement:",newStr)
+// var newStr = str.replace("Hyderabad","Islamabad")
+// document.write("City:Hyderabad","<br>","After replacement:",newStr)
+
+//---- Question No: 8
+
+var message = "Ali and Sami are best friends. They play cricket and football together:";
+
+var newMessage = message.replace(/and/g,"&");
+document.write(newMessage);
