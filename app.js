@@ -30,7 +30,16 @@
 
 //---Question No: 4
 
-var str = "Hello World";
+// var str = "Hello World";
 
-var index = str.lastIndexOf("l");
-document.write("The last index of the letter 'l' in the word 'Hello World' is: " + index);
+// var index = str.lastIndexOf("l");
+// document.write("The last index of the letter 'l' in the word 'Hello World' is: " + index);
+
+//--- Question No: 5
+
+
+var str = "pakistani";
+
+var char = str.charAt(5);
+
+document.write(`srting: pakistani <br> Character at index 3: ${char}`)
