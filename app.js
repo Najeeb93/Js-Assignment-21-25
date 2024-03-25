@@ -46,10 +46,17 @@
 
 //---Question No: 6
 
-var text1 = "Hello";
+// var text1 = "Hello";
 
-var text2 = "World";
+// var text2 = "World";
 
-var text3 = text1.concat(" ",text2);
+// var text3 = text1.concat(" ",text2);
 
-document.write(text3)
+// document.write(text3)
+
+// --- Question No: 7
+
+var str = "Hyderabad";
+
+var newStr = str.replace("Hyderabad","Islamabad")
+document.write("City:Hyderabad","<br>","After replacement:",newStr)
