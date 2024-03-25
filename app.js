@@ -78,8 +78,16 @@
 
 //----Question No: 10
 
+// var userInput = prompt("Please enter a string");
+
+// var capitalized = userInput.toLocaleUpperCase();
+
+// document.write("The capitalized string is: ", capitalized);
+
+//----Question No: 11
+
 var userInput = prompt("Please enter a string");
 
-var capitalized = userInput.toLocaleUpperCase();
+var titleCase = userInput.toLowerCase();
 
-document.write("The capitalized string is: ", capitalized)
+document.write("The title cased string is: " + titleCase)
