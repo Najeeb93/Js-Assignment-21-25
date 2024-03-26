@@ -95,8 +95,56 @@
 
 //----Question No: 12
 
-var numb = "35.36";
+// var numb = "35.36";
 
-numb = numb.replace(".","")
+// numb = numb.replace(".","")
 
-document.write(numb)
+// document.write(numb)
+
+
+// for(let i = 1; i <= 3; i++){
+//     // console.log("outer loop ==>",i)
+//     for(let j = 1; j <= 2; j++){
+//         console.log(i * j)
+
+
+//     }
+// }
+
+// for(var i = 1; i <=5; i++){
+//     for(var j=1; j <=i; j++){
+//         document.write(j)
+//     }
+//     document.write("<br>")
+// }
+
+// for(var i = 5; i>=1; i--){
+//     for(var j = 5;  j>=i; j--) {
+//           document.write(j)
+//     }
+//     document.write("<br>")
+    
+// }
+
+// for(var i = 1; i <= 5 ; i++){
+//     for(var j = 1; j<=5; j++) {
+//         document.write(j)
+//     }
+//     document.write( "<br>" )
+// }
+
+// for(var i = 5; i>=1; i--){
+//     for(var j = 5;  j>=i; j--) {
+//           document.write("*")
+//     }
+//     document.write("<br>")
+    
+// }
+
+/* Write a program to check whether the word is palidrome or not.
+palidrome words --> civic,madam,,121.
+*/
+ 
+/*write a program to calculate factorial by using prompt i.e (5) 5*4*3*2*1
+
+var userInput = prompt("Enter the palindrome word");
