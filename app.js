@@ -94,3 +94,9 @@
 
 
 //----Question No: 12
+
+var numb = "35.36";
+
+numb = numb.replace(".","")
+
+document.write(numb)
