@@ -133,10 +133,17 @@
 
 //---- Question No: 16 ----//
 
-var university = "University of Karachi";
+// var university = "University of Karachi";
 
-var arr = university.split("")
-for(i = 0; i < arr.length; i++) {
-    document.write(arr[i]+"<br>");
-}
+// var arr = university.split("")
+// for(i = 0; i < arr.length; i++) {
+//     document.write(arr[i]+"<br>");
+// }
+
+// ---- Question No: 17 ----- //
+
+var userInput = prompt("Enter the words") 
+ lastChar = userInput.charAt(userInput.length-1);
+
+ document.write("User input: "+ userInput + "<br>" + " Last character of input: " + lastChar)
 
