@@ -109,21 +109,29 @@
 
 //------- Question No: 14 ----//
 
-var arr = ["cake","apple pie","cookie","chips","patties"];
+// var arr = ["cake","apple pie","cookie","chips","patties"];
 
-var userInput = prompt("Welcome to BLUE BAKRY.What do you want to order Sir/Ma'am?").toLowerCase();
+// var userInput = prompt("Welcome to BLUE BAKRY.What do you want to order Sir/Ma'am?").toLowerCase();
 
-var check = false;
-for(i = 0; i < arr.length; i++){
-    if(userInput == arr[i]){
-        check = true;
-        var index = "";
-        document.write(`${arr[i]} is available at index ${arr.indexOf(userInput)} in our bakery`);
-}
+// var check = false;
+// for(i = 0; i < arr.length; i++){
+//     if(userInput == arr[i]){
+//         check = true;
+//         var index = "";
+//         document.write(`${arr[i]} is available at index ${arr.indexOf(userInput)} in our bakery`);
+// }
 
-}
-if(check === false) {
-    document.write(`We are sorry.${userInput} is not available in our bakery`)
-}
+// }
+// if(check === false) {
+//     document.write(`We are sorry.${userInput} is not available in our bakery`)
+// }
+
+// ---- Question No: 15 ----//
+
+
+
+
+//---- Question No: 16 ----//
+
 
 
