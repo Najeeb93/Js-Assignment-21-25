@@ -142,8 +142,24 @@
 
 // ---- Question No: 17 ----- //
 
-var userInput = prompt("Enter the words") 
- lastChar = userInput.charAt(userInput.length-1);
+// var userInput = prompt("Enter the words") 
+//  lastChar = userInput.charAt(userInput.length-1);
 
- document.write("User input: "+ userInput + "<br>" + " Last character of input: " + lastChar)
+//  document.write("User input: "+ userInput + "<br>" + " Last character of input: " + lastChar)
+
+// ---- Question No: 18 ------ //
+
+// var str = "The quick brown fox jumps over the lazy dog.";
+
+// var result = str.split(' ');
+
+// var count = 0;
+
+// for(i = 0; i < result.length; i++) {
+//     if(result[i] == "the"){
+//         count++
+//     }
+ 
+// }
+// document.write("Text: The  quick brown fox jumps over the lazy dog" + "<br>" + "There are " + count +  " occurrence(s) of 'the' ")
 
