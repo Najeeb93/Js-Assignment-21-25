@@ -101,50 +101,29 @@
 
 // document.write(numb)
 
-
-// for(let i = 1; i <= 3; i++){
-//     // console.log("outer loop ==>",i)
-//     for(let j = 1; j <= 2; j++){
-//         console.log(i * j)
+//----- Question No: 13 ----//
 
 
-//     }
-// }
+// var userName = prompt("Enter a username");
 
-// for(var i = 1; i <=5; i++){
-//     for(var j=1; j <=i; j++){
-//         document.write(j)
-//     }
-//     document.write("<br>")
-// }
 
-// for(var i = 5; i>=1; i--){
-//     for(var j = 5;  j>=i; j--) {
-//           document.write(j)
-//     }
-//     document.write("<br>")
-    
-// }
+//------- Question No: 14 ----//
 
-// for(var i = 1; i <= 5 ; i++){
-//     for(var j = 1; j<=5; j++) {
-//         document.write(j)
-//     }
-//     document.write( "<br>" )
-// }
+var arr = ["cake","apple pie","cookie","chips","patties"];
 
-// for(var i = 5; i>=1; i--){
-//     for(var j = 5;  j>=i; j--) {
-//           document.write("*")
-//     }
-//     document.write("<br>")
-    
-// }
+var userInput = prompt("Welcome to BLUE BAKRY.What do you want to order Sir/Ma'am?").toLowerCase();
 
-/* Write a program to check whether the word is palidrome or not.
-palidrome words --> civic,madam,,121.
-*/
- 
-/*write a program to calculate factorial by using prompt i.e (5) 5*4*3*2*1
+var check = false;
+for(i = 0; i < arr.length; i++){
+    if(userInput == arr[i]){
+        check = true;
+        var index = "";
+        document.write(`${arr[i]} is available at index ${arr.indexOf(userInput)} in our bakery`);
+}
 
-var userInput = prompt("Enter the palindrome word");
+}
+if(check === false) {
+    document.write(`We are sorry.${userInput} is not available in our bakery`)
+}
+
+
