@@ -199,11 +199,17 @@
 
 //---- Question No: 5 ---- //
 
-var num = Math.floor(Math.random()*2)
+// var num = Math.floor(Math.random()*2)
 
-if(num == 1){
-   document.write("random coin value: Heads")
-}
-else{
-   document.write("random coin value: Tails")
-}
+// if(num == 1){
+//    document.write("random coin value: Heads")
+// }
+// else{
+//    document.write("random coin value: Tails")
+// }
+
+// ---  Question No: 6 --- //
+
+var num = Math.round(Math.random()*100);
+
+document.write("random number between 1 and 100: " + num);
