@@ -149,17 +149,17 @@
 
 // ---- Question No: 18 ------ //
 
-// var str = "The quick brown fox jumps over the lazy dog.";
+var str = "the quick brown fox jumps over the lazy dog.";
 
-// var result = str.split(' ');
+var result = str.split(' ');
 
-// var count = 0;
+var count = 0;
 
-// for(i = 0; i < result.length; i++) {
-//     if(result[i] == "the"){
-//         count++
-//     }
+for(i = 0; i < result.length; i++) {
+    if(result[i] == "the"){
+        count++
+    }
  
-// }
-// document.write("Text: The  quick brown fox jumps over the lazy dog" + "<br>" + "There are " + count +  " occurrence(s) of 'the' ")
+}
+document.write("Text: The  quick brown fox jumps over the lazy dog" + "<br>" + "There are " + count +  " occurrence(s) of 'the' ")
 
