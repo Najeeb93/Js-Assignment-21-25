@@ -185,6 +185,14 @@
 
 //---- Question No: 3 ----//
 
-var num = -4;
+// var num = -4;
 
-document.write("The absolute value of " + num + " is " + Math.abs(num));
+// document.write("The absolute value of " + num + " is " + Math.abs(num));
+
+//--- Question No: 5 -----//
+
+
+var num = Math.random()*6;
+var num2 = Math.round(num);
+
+document.write("random dice value: " + num2)
