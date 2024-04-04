@@ -210,6 +210,12 @@
 
 // ---  Question No: 6 --- //
 
-var num = Math.round(Math.random()*100);
+// var num = Math.round(Math.random()*100);
 
-document.write("random number between 1 and 100: " + num);
+// document.write("random number between 1 and 100: " + num);
+
+//---- Question No: 7 --- //
+
+var userInput = +prompt("Enter your weight in kilograms");
+
+document.write(`The weight of user is ${userInput} kilograms`)
