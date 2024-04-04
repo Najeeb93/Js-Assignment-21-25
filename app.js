@@ -149,17 +149,28 @@
 
 // ---- Question No: 18 ------ //
 
-var str = "the quick brown fox jumps over the lazy dog.";
+// var str = "the quick brown fox jumps over the lazy dog.";
 
-var result = str.split(' ');
+// var result = str.split(' ');
 
-var count = 0;
+// var count = 0;
 
-for(i = 0; i < result.length; i++) {
-    if(result[i] == "the"){
-        count++
-    }
+// for(i = 0; i < result.length; i++) {
+//     if(result[i] == "the"){
+//         count++
+//     }
  
-}
-document.write("Text: The  quick brown fox jumps over the lazy dog" + "<br>" + "There are " + count +  " occurrence(s) of 'the' ")
+// }
+// document.write("Text: The  quick brown fox jumps over the lazy dog" + "<br>" + "There are " + count +  " occurrence(s) of 'the' ")
 
+
+//-----ASSIGNMENT # 26-30 ---------//
+
+
+//--- Question No: 1 --- //
+
+var num = 3.45214;
+document.write("number: " + num  + "<br>");
+document.write("round off value: " + Math.round(num) + "<br>");
+document.write("floor value: " + Math.floor(num) + "<br>");
+document.write("ceil value: " + Math.ceil(num) + "<br>");  
