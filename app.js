@@ -189,10 +189,21 @@
 
 // document.write("The absolute value of " + num + " is " + Math.abs(num));
 
-//--- Question No: 5 -----//
+//--- Question No: 4 -----//
 
 
-var num = Math.random()*6;
-var num2 = Math.round(num);
+// var num = Math.random()*6;
+// var num2 = Math.round(num);
 
-document.write("random dice value: " + num2)
+// document.write("random dice value: " + num2);
+
+//---- Question No: 5 ---- //
+
+var num = Math.floor(Math.random()*2)
+
+if(num == 1){
+   document.write("random coin value: Heads")
+}
+else{
+   document.write("random coin value: Tails")
+}
