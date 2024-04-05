@@ -223,17 +223,26 @@
 //----- Question No: 8 ---//
 
 
-var secretNumber = [2,4,6,7,8];
+// var secretNumber = [2,4,6,7,8];
 
-var userInput = +prompt("Enter a number between 1 and 10");
-var flag = false
+// var userInput = +prompt("Enter a number between 1 and 10");
+// var flag = false
 
-for(i = 0; i < secretNumber.length; i++) {
-    if(userInput === secretNumber[i]){
-        flag = true
-        document.write("your selected number right")
-    }
-}   
-if(flag === false) {
-    document.write("Try Again!")
-}
+// for(i = 0; i < secretNumber.length; i++) {
+//     if(userInput === secretNumber[i]){
+//         flag = true
+//         document.write("your selected number right")
+//     }
+// }   
+// if(flag === false) {
+//     document.write("Try Again!")
+// }
+
+
+// ------ ASSIGNMENT # 31-34 ------//
+
+// --- Question No: 1 --//
+
+var date = new Date();
+
+document.write(date);
