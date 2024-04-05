@@ -249,10 +249,23 @@
 
 // --- Question No: 2 --//
 
-var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+// var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+
+// var date = new Date();
+// var month = date.getMonth()
+// months = months[month]
+
+// document.write(months)
+
+// --- Question No: 3 ---//
+
+var days = ["sun","mon","tues","wed","thurs","fri","sat"];
 
 var date = new Date();
-var month = date.getMonth()
-months = months[month]
 
-document.write(months)
+var day = date.getDay();
+
+days = days[day];
+
+document.write(days)
+
