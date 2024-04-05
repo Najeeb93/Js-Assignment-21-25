@@ -159,7 +159,7 @@
 //     if(result[i] == "the"){
 //         count++
 //     }
- 
+
 // }
 // document.write("Text: The  quick brown fox jumps over the lazy dog" + "<br>" + "There are " + count +  " occurrence(s) of 'the' ")
 
@@ -271,5 +271,17 @@
 
 // --- Question No: 4 ---//
 
+var days = ["sun","mon","tues","wed","thurs","fri","sat"];
+
+var date = new Date();
+
+var day = date.getDay();
+
+var days = days[day];
 
 
+if(days === "sat"  || days === "sun"){
+   
+    
+    document.write("Its Fun  Day " +  days );
+}
