@@ -243,6 +243,16 @@
 
 // --- Question No: 1 --//
 
-var date = new Date();
+// var date = new Date();
 
-document.write(date);
+// document.write(date);
+
+// --- Question No: 2 --//
+
+var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+
+var date = new Date();
+var month = date.getMonth()
+months = months[month]
+
+document.write(months)
