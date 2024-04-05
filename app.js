@@ -259,13 +259,17 @@
 
 // --- Question No: 3 ---//
 
-var days = ["sun","mon","tues","wed","thurs","fri","sat"];
+// var days = ["sun","mon","tues","wed","thurs","fri","sat"];
 
-var date = new Date();
+// var date = new Date();
 
-var day = date.getDay();
+// var day = date.getDay();
 
-days = days[day];
+// days = days[day];
 
-document.write(days)
+// document.write("Today is "+ days)
+
+// --- Question No: 4 ---//
+
+
 
