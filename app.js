@@ -271,17 +271,30 @@
 
 // --- Question No: 4 ---//
 
-var days = ["sun","mon","tues","wed","thurs","fri","sat"];
+// var days = ["sun","mon","tues","wed","thurs","fri","sat"];
 
-var date = new Date();
+// var date = new Date();
 
-var day = date.getDay();
+// var day = date.getDay();
 
-var days = days[day];
+// var days = days[day];
 
 
-if(days === "sat"  || days === "sun"){
+// if(days === "sat"  || days === "sun"){
    
     
-    document.write("Its Fun  Day " +  days );
+//     document.write("Its Fun  Day " +  days );
+// }
+
+// --- Question No: 5 ---//
+
+var now = new Date();
+
+var day = now.getDate();
+
+if(day < 16){
+    document.write("First fifteen days")
+}
+else{
+    document.write(`Today is ${day} of month`)
 }
