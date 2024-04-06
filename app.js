@@ -301,21 +301,27 @@
 
 // --- Question No: 6 ---//
 
-var date = new Date();
+// var date = new Date();
 
-var mili = date.getTime();
+// var mili = date.getTime();
 
-mins = mili / 60000;
+// mins = mili / 60000;
 
-document.write(mins)
+// document.write(mins)
 
 // --- Question No: 7 ---//
 
-var time = new Date().getHours()
+// var time = new Date().getHours()
 
-if(time < 12){
-    document.write("It's Am")
-}
-else{
-    document.write("It's Pm")
-}
+// if(time < 12){
+//     document.write("It's Am")
+// }
+// else{
+//     document.write("It's Pm")
+// }
+
+//---- Question No: 8 ---//
+
+var laterDate = new Date("31 dec, 2020")
+
+document.write(laterDate)
