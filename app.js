@@ -328,12 +328,12 @@
 
 // ---  Question No: 9 ----//
 
-var afteEid = new Date("15 june, 2024").getTime();
+// var afteEid = new Date("15 june, 2024").getTime();
 
-var nowDate = new Date().getTime();
+// var nowDate = new Date().getTime();
 
-var  leftTime = afteEid - nowDate
+// var  leftTime = afteEid - nowDate
 
-var convert = Math.floor(leftTime / (1000 * 60 * 60 * 24));
+// var convert = Math.floor(leftTime / (1000 * 60 * 60 * 24));
 
-document.write(convert  +  " Days to left Eid ul Adha")
+// document.write(convert  +  " Days to left Eid ul Adha")
