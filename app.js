@@ -322,6 +322,18 @@
 
 //---- Question No: 8 ---//
 
-var laterDate = new Date("31 dec, 2020")
+// var laterDate = new Date("31 dec, 2020")
 
-document.write(laterDate)
+// document.write(laterDate)
+
+// ---  Question No: 9 ----//
+
+var afteEid = new Date("15 june, 2024").getTime();
+
+var nowDate = new Date().getTime();
+
+var  leftTime = afteEid - nowDate
+
+var convert = Math.floor(leftTime / (1000 * 60 * 60 * 24));
+
+document.write(convert  +  " Days to left Eid ul Adha")
