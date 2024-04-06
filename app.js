@@ -288,13 +288,34 @@
 
 // --- Question No: 5 ---//
 
-var now = new Date();
+// var now = new Date();
 
-var day = now.getDate();
+// var day = now.getDate();
 
-if(day < 16){
-    document.write("First fifteen days")
+// if(day < 16){
+//     document.write("First fifteen days")
+// }
+// else{
+//     document.write(`Today is ${day} of month`)
+// }
+
+// --- Question No: 6 ---//
+
+var date = new Date();
+
+var mili = date.getTime();
+
+mins = mili / 60000;
+
+document.write(mins)
+
+// --- Question No: 7 ---//
+
+var time = new Date().getHours()
+
+if(time < 12){
+    document.write("It's Am")
 }
 else{
-    document.write(`Today is ${day} of month`)
+    document.write("It's Pm")
 }
