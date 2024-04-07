@@ -351,3 +351,15 @@
 // var convert = mint / 1000 / 60
 // document.write("On reference Date " + date + "<br>"+ convert + " Seconds had passed since beginning of 2015 ")
 
+
+// ---- Question No: 11 --- //
+
+var currenDate = new Date();
+
+var date = new Date()
+
+var hours = date.getHours();
+
+date.setHours(hours + 1);
+
+document.write("Current date: "+ currenDate + "<br>" + " 1 hours ago,it was  "+ date)
