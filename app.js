@@ -340,14 +340,14 @@
 
 // ---  Question No: 10 ---- //
 
-var date = new Date("5 dec, 2015");
+// var date = new Date("5 dec, 2015");
 
-var end = new Date("5 dec,2015").getTime()
+// var end = new Date("5 dec,2015").getTime()
 
-var start = new Date("1,jan 2015").getTime()
+// var start = new Date("1,jan 2015").getTime()
 
-var mint = end - start
+// var mint = end - start
 
-var convert = mint / 1000 / 60
-document.write("On reference Date " + date + "<br>"+ convert + " Seconds had passed since beginning of 2015 ")
+// var convert = mint / 1000 / 60
+// document.write("On reference Date " + date + "<br>"+ convert + " Seconds had passed since beginning of 2015 ")
 
