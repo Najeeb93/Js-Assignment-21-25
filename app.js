@@ -354,12 +354,12 @@
 
 // ---- Question No: 11 --- //
 
-var currenDate = new Date();
+// var currenDate = new Date();
 
-var date = new Date()
+// var date = new Date()
 
-var hours = date.getHours();
+// var hours = date.getHours();
 
-date.setHours(hours + 1);
+// date.setHours(hours + 1);
 
-document.write("Current date: "+ currenDate + "<br>" + " 1 hours ago,it was  "+ date)
+// document.write("Current date: "+ currenDate + "<br>" + " 1 hours ago,it was  "+ date);
