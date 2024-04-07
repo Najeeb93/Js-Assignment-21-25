@@ -363,3 +363,13 @@
 // date.setHours(hours + 1);
 
 // document.write("Current date: "+ currenDate + "<br>" + " 1 hours ago,it was  "+ date);
+
+// ---- Question No: 12 ----//
+
+var current = new Date();
+
+var date = new Date();
+
+date.setFullYear(date.getFullYear()-100);
+
+document.write(`current date: ${current} <br> 100 years back,it was ${date}`);
