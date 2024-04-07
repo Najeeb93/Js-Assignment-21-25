@@ -366,10 +366,10 @@
 
 // ---- Question No: 12 ----//
 
-var current = new Date();
+// var current = new Date();
 
-var date = new Date();
+// var date = new Date();
 
-date.setFullYear(date.getFullYear()-100);
+// date.setFullYear(date.getFullYear()-100);
 
-document.write(`current date: ${current} <br> 100 years back,it was ${date}`);
+// document.write(`current date: ${current} <br> 100 years back,it was ${date}`);
