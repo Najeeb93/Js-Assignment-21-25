@@ -337,3 +337,17 @@
 // var convert = Math.floor(leftTime / (1000 * 60 * 60 * 24));
 
 // document.write(convert  +  " Days to left Eid ul Adha")
+
+// ---  Question No: 10 ---- //
+
+var date = new Date("5 dec, 2015");
+
+var end = new Date("5 dec,2015").getTime()
+
+var start = new Date("1,jan 2015").getTime()
+
+var mint = end - start
+
+var convert = mint / 1000 / 60
+document.write("On reference Date " + date + "<br>"+ convert + " Seconds had passed since beginning of 2015 ")
+
