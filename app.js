@@ -373,3 +373,6 @@
 // date.setFullYear(date.getFullYear()-100);
 
 // document.write(`current date: ${current} <br> 100 years back,it was ${date}`);
+
+// --- Question No: 13 ---//
+
