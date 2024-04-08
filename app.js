@@ -381,3 +381,33 @@
 // var birthYear = (new Date()).getFullYear()-age;
 
 // document.write("Your birth year is " + birthYear)
+
+// ---- Question No: 14 --- //
+
+var customerName = prompt("Enter your Name");
+
+var monthNames = ["January","February","March","April", "May", "June","July","August","September","October","November","December"];
+
+var month = new Date().getMonth();
+
+monthNames = monthNames[month];
+
+var units = +prompt("Enter Number of Units");
+
+var chargesPerUnits = 16;
+
+var netAmount = units * chargesPerUnits;
+
+var latePaymentCharges = 350;
+
+var grossAmountPay = netAmount + latePaymentCharges;
+
+document.write(`Customer Name: ${customerName} <br>`);
+document.write(`Months: ${monthNames} <br>`);
+document.write(`Number of units: ${units} <br>`);
+document.write(`Charges per units: ${chargesPerUnits} <br>`);
+document.write(`Net Amount Payable (Within Due Date): ${netAmount} <br>`);
+document.write(`Late payment surcharges: ${latePaymentCharges} <br>`);
+document.write(`Gross Amount Payable (after Due Date): ${grossAmountPay}`);
+
+
