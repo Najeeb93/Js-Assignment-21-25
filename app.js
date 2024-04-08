@@ -376,3 +376,8 @@
 
 // --- Question No: 13 ---//
 
+var age = prompt('Enter your Age');
+
+var birthYear = (new Date()).getFullYear()-age;
+
+document.write("Your birth year is " + birthYear)
