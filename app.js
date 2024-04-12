@@ -114,6 +114,8 @@ for(var i = 0; i < specialSymbols.length; i++){
     }
 }
 
+var storedUsername = userName;
+
 
 //------- Question No: 14 ----//
 
