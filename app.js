@@ -108,6 +108,11 @@ var userName = prompt("Please enter your username");
 
 var specialSymbols = ["@",".",","];
 
+for(var i = 0; i < specialSymbols.length; i++){
+    if(userName.includes(specialSymbols[i])){
+        userName = prompt("Your username contain a special symbol. Please enter a valid  username:")
+    }
+}
 
 
 //------- Question No: 14 ----//
