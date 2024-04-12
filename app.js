@@ -116,6 +116,7 @@ for(var i = 0; i < specialSymbols.length; i++){
 
 var storedUsername = userName;
 
+document.write("Your username is: " + storedUsername);
 
 //------- Question No: 14 ----//
 
