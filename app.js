@@ -104,7 +104,10 @@
 //----- Question No: 13 ----//
 
 
-// var userName = prompt("Enter a username");
+var userName = prompt("Please enter your username");
+
+var specialSymbols = ["@",".",","];
+
 
 
 //------- Question No: 14 ----//
