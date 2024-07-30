@@ -421,10 +421,11 @@
 // document.write(`Late payment surcharges: ${latePaymentCharges} <br>`);
 // document.write(`Gross Amount Payable (after Due Date): ${grossAmountPay}`);
 
+// ------- Practice Question ----- //
 
-var x = 1;
-function foo(x) {
-    x = x + x;
-}
-foo(x);
-console.log(x);
+// var x = 1;
+// function foo(x) {
+//     x = x + x;
+// }
+// foo(x);
+// console.log(x);
