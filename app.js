@@ -451,6 +451,6 @@
 // let x = [10] == [10];
 // let y = x ? true : false;
 // console.log(y);
-let a = 10;
-let b = a++;
-console.log(a, b);
+// let a = 10;
+// let b = a++;
+// console.log(a, b);
