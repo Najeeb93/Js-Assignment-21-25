@@ -454,3 +454,8 @@
 // let a = 10;
 // let b = a++;
 // console.log(a, b);
+let func = () => {
+    console.log("Baby");
+};
+let result = func();
+console.log(result);
