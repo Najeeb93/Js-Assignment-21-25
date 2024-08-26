@@ -448,3 +448,6 @@
 // let str = "Baby";
 // str[1] = "A";
 // console.log(str);
+let x = [10] == [10];
+let y = x ? true : false;
+console.log(y);
