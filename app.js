@@ -429,6 +429,6 @@
 // }
 // foo(x);
 // console.log(x);
-const x = { a: 1};
-const y = { a: 1};
-console.log(x.a === y.a);
+// const x = { a: 1};
+// const y = { a: 1};
+// console.log(x.a === y.a);
