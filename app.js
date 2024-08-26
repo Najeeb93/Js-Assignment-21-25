@@ -439,6 +439,6 @@
 // };
 // console.log(test());
 // console.log(num);
-const numbers = [1,2,3,4];
-const [x] = numbers;
-console.log(x);
+// const numbers = [1,2,3,4];
+// const [x] = numbers;
+// console.log(x);
