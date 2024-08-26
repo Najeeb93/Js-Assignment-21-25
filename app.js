@@ -432,10 +432,10 @@
 // const x = { a: 1};
 // const y = { a: 1};
 // console.log(x.a === y.a);
-let num = 0;
-function test() {
-    var num = 1;
-    console.log(num);
-};
-console.log(test());
-console.log(num);
+// let num = 0;
+// function test() {
+//     var num = 1;
+//     console.log(num);
+// };
+// console.log(test());
+// console.log(num);
