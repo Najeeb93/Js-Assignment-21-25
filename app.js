@@ -445,3 +445,6 @@
 // let arr1 = [1,2,3];
 // let arr2 = arr1.push(5);
 // console.log(arr1.length);
+let str = "Baby";
+str[1] = "A";
+console.log(str);
