@@ -459,4 +459,4 @@
 // };
 // let result = func();
 // onsole.lcog(result);
-console.log(+'10'-5);
+// console.log(+'10'-5);
