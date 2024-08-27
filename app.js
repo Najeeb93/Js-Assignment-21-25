@@ -460,7 +460,7 @@
 // let result = func();
 // onsole.lcog(result);
 // console.log(+'10'-5);
-function baby(x, y=x){
-    return x * x;
-};
-console.log(baby(5));
+// function baby(x, y=x){
+//     return x * x;
+// };
+// console.log(baby(5));
