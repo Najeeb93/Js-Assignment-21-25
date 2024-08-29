@@ -483,6 +483,6 @@
 // let y = x;
 // x.push(4);
 // console.log(x);
-let x = 0;
-let y = x++;
-console.log(y,x);
+// let x = 0;
+// let y = x++;
+// console.log(y,x);
