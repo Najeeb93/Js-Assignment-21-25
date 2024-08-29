@@ -479,3 +479,7 @@
 // console.log(obj.a);
 // const [a, , b] = [1,2,3];
 // console.log(a, b);
+let x = [1,2,3];
+let y = x;
+x.push(4);
+console.log(x);
