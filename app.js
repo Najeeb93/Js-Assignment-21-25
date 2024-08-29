@@ -471,9 +471,9 @@
 // let b = a;
 // a = 10;
 // console.log(b);
-var obj = {
-    a: 1,
-    b: 2,
-    a: 3
-};
-console.log(obj.a);
+// var obj = {
+//     a: 1,
+//     b: 2,
+//     a: 3
+// };
+// console.log(obj.a);
