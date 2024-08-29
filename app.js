@@ -464,6 +464,6 @@
 //     return x * x;
 // };
 // console.log(baby(5));
-let count = 0;
-const increment = () => ++count;
-console.log(typeof increment);
+// let count = 0;
+// const increment = () => ++count;
+// console.log(typeof increment);
