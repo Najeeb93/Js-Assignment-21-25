@@ -467,7 +467,7 @@
 // let count = 0;
 // const increment = () => ++count;
 // console.log(typeof increment);
-let a = 5;
-let b = a;
-a = 10;
-console.log(b);
+// let a = 5;
+// let b = a;
+// a = 10;
+// console.log(b);
