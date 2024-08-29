@@ -477,3 +477,5 @@
 //     a: 3
 // };
 // console.log(obj.a);
+const [a, , b] = [1,2,3];
+console.log(a, b);
