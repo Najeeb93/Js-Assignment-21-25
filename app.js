@@ -505,6 +505,6 @@
 // let data = [1,2,3,4,5];
 // let res = data.slice(1,3);
 // console.log(res);
-var a = 10;
-let a = 20;
-console.log(a);
+// var a = 10;
+// let a = 20;
+// console.log(a);
