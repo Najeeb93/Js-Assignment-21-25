@@ -508,8 +508,8 @@
 // var a = 10;
 // let a = 20;
 // console.log(a);
-function add(...n) {
-    console.log(n);
-}
-let num = [2,4,6];
-add(...num);
+// function add(...n) {
+//     console.log(n);
+// }
+// let num = [2,4,6];
+// add(...num);
