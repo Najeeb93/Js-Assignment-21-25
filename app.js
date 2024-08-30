@@ -513,3 +513,6 @@
 // }
 // let num = [2,4,6];
 // add(...num);
+let arr = ['eat','sleep','baby'];
+let a = arr.pop();
+console.log(a);
