@@ -498,3 +498,7 @@
 // var array2 = array1;
 // array2.length = 0;
 // console.log(array1, array2);
+let arr = [10,20,30];
+let index = 0;
+console.log(arr[index++]);
+console.log(arr[++index]);
