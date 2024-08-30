@@ -494,3 +494,7 @@
 // if(y){
 //     console.log(y);
 // }
+var array1 = ['a','b','c'];
+var array2 = array1;
+array2.length = 0;
+console.log(array1, array2);
