@@ -516,7 +516,7 @@
 // let arr = ['eat','sleep','baby'];
 // let a = arr.pop();
 // console.log(a);
-let x = [1,2,3];
-let y = x;
-x = [];
-console.log(y);
+// let x = [1,2,3];
+// let y = x;
+// x = [];
+// console.log(y);
