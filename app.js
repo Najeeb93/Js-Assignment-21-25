@@ -525,6 +525,6 @@
 // b = 10;
 // console.log(a);
 // console.log(b);
-let a = [1,2,3];
-let b = [4,5,6];
-console.log(a + b);
+// let a = [1,2,3];
+// let b = [4,5,6];
+// console.log(a + b);
