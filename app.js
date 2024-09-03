@@ -531,6 +531,6 @@
 // let x = 5;
 // let y = x ** 2 * x;
 // console.log(y);
-let x = 5;
-x += x++;
-console.log(++x);
+// let x = 5;
+// x += x++;
+// console.log(++x);
