@@ -528,6 +528,6 @@
 // let a = [1,2,3];
 // let b = [4,5,6];
 // console.log(a + b);
-let x = 5;
-let y = x ** 2 * x;
-console.log(y);
+// let x = 5;
+// let y = x ** 2 * x;
+// console.log(y);
