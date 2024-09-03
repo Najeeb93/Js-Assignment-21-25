@@ -520,8 +520,8 @@
 // let y = x;
 // x = [];
 // console.log(y);
-let a = 5;
-let b = a;
-b = 10;
-console.log(a);
-console.log(b);
+// let a = 5;
+// let b = a;
+// b = 10;
+// console.log(a);
+// console.log(b);
