@@ -534,3 +534,6 @@
 // let x = 5;
 // x += x++;
 // console.log(++x);
+let a = 5;
+let b = a;
+console.log(++b);
