@@ -555,6 +555,6 @@
 // console.log(p);
 // console.log({} == {});
 // console.log({} === {});
-let arr = ['baby1','baby2,','baby3'];
-let { 2: c} = arr;
-console.log(c);
+// let arr = ['baby1','baby2,','baby3'];
+// let { 2: c} = arr;
+// console.log(c);
