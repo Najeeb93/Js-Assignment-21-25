@@ -553,3 +553,5 @@
 // let p = [1,2,3,4];
 // p[p.length-1]++;
 // console.log(p);
+console.log({} == {});
+console.log({} === {});
