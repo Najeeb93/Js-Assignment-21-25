@@ -561,3 +561,6 @@
 // let a = 0;
 // let b = 5;
 // console.log(a ?? b);
+let n = 5;
+let p = n++;
+console.log(n, p);
