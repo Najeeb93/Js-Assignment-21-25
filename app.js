@@ -558,6 +558,6 @@
 // let arr = ['baby1','baby2,','baby3'];
 // let { 2: c} = arr;
 // console.log(c);
-let a = 0;
-let b = 5;
-console.log(a ?? b);
+// let a = 0;
+// let b = 5;
+// console.log(a ?? b);
