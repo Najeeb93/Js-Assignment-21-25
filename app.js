@@ -550,3 +550,6 @@
 // const arrNum = [1,2,8,2,9,8];
 // const duplicates = arrNum.filter((ele,index,arr) => arr.indexOf(ele) !== index);
 // console.log(duplicates);
+let p = [1,2,3,4];
+p[p.length-1]++;
+console.log(p);
