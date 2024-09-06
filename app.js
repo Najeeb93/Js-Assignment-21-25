@@ -564,3 +564,7 @@
 // let n = 5;
 // let p = n++;
 // console.log(n, p);
+let a = 5 > 4;
+let b = 4 < 5;
+let c = a >= b;
+console.log(c);
