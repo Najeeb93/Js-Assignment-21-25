@@ -584,3 +584,7 @@
 // const b = {x: 1};
 // console.log(a === b);
 // console.log(a.x === b.x);
+let a = 5;
+let b = a++;
+let c = a + b;
+console.log(c);
