@@ -577,6 +577,6 @@
 // let x = true;
 // let y = false;
 // console.log(x && y);
-const arry = [];
-arry.foo = 'follow';
-console.log(arry.length);
+// const arry = [];
+// arry.foo = 'follow';
+// console.log(arry.length);
