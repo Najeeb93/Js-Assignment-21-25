@@ -574,6 +574,6 @@
 // fact *= i
 // }
 // console.log(fact);
-let x = true;
-let y = false;
-console.log(x && y);
+// let x = true;
+// let y = false;
+// console.log(x && y);
