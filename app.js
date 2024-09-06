@@ -568,3 +568,9 @@
 // let b = 4 < 5;
 // let c = a >= b;
 // console.log(c);
+const num = 20;
+var fact = 1;
+for(let i = 1; i <= num; i++) {
+fact *= i
+}
+console.log(fact);
