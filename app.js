@@ -594,6 +594,6 @@
 // const count = 5;
 // const increment = () => ++count;
 // console.log(typeof increment);
-const arr = [1,2,3];
-const [a, b, c, d = 4] = arr;
-console.log(a, b, c, d);
+// const arr = [1,2,3];
+// const [a, b, c, d = 4] = arr;
+// console.log(a, b, c, d);
