@@ -619,9 +619,9 @@
 // const arr = [2,4];
 // arr.concat(6,8);
 // console.log(arr);
-const user = {
-    firstName: 'Baby',
-    lastName: 'Girl',
-    age: 15,
-};
-console.log('age' in user);
+// const user = {
+//     firstName: 'Baby',
+//     lastName: 'Girl',
+//     age: 15,
+// };
+// console.log('age' in user);
