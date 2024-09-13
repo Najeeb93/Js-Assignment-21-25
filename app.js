@@ -616,3 +616,6 @@
 // } else {
 //     console.log('Falsy');
 // }
+const arr = [2,4];
+arr.concat(6,8);
+console.log(arr);
