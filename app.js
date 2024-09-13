@@ -611,8 +611,8 @@
 //     console.log('hello');
 // };
 // console.log(window.hi());
-if("false") {
-    console.log('Truthy');
-} else {
-    console.log('Falsy');
-}
+// if("false") {
+//     console.log('Truthy');
+// } else {
+//     console.log('Falsy');
+// }
