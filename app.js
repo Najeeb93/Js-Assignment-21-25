@@ -597,7 +597,7 @@
 // const arr = [1,2,3];
 // const [a, b, c, d = 4] = arr;
 // console.log(a, b, c, d);
-let hi = function hello(){
-    console.log('hi');
-};
-hello();
+// let hi = function hello(){
+//     console.log('hi');
+// };
+// hello();
