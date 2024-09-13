@@ -607,3 +607,7 @@
 // let x = 5;
 // let y = '5';
 // console.log(x != y);
+function hi() {
+    console.log('hello');
+};
+console.log(window.hi());
