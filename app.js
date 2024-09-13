@@ -604,6 +604,6 @@
 // let x = 0;
 // let y = 0;
 // console.log(++x === y++);
-let x = 5;
-let y = '5';
-console.log(x != y);
+// let x = 5;
+// let y = '5';
+// console.log(x != y);
