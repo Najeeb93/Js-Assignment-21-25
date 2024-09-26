@@ -640,8 +640,8 @@
 // let x = 10;
 // let y = 5;
 // console.log(x++ - --y);
-function sortStringa(arr) {
-    return arr.sort();
-}
-const strings = ['apple','elderberry','cherry','date','banana'];
-console.log(sortStringa(strings));
+// function sortStringa(arr) {
+//     return arr.sort();
+// }
+// const strings = ['apple','elderberry','cherry','date','banana'];
+// console.log(sortStringa(strings));
