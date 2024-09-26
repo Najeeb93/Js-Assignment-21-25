@@ -625,15 +625,15 @@
 //     age: 15,
 // };
 // console.log('age' in user);
-const arr = [
-    [12,4,3,6],
-    [43,5],
-    [7],
-    [8,9,10],
-]
-for(let i = 0; i < arr.length; i++) {
-    for (let j = 0; j < arr[i].length; j++) {
+// const arr = [
+//     [12,4,3,6],
+//     [43,5],
+//     [7],
+//     [8,9,10],
+// ]
+// for(let i = 0; i < arr.length; i++) {
+//     for (let j = 0; j < arr[i].length; j++) {
         
-        console.log(arr[i][j]);
-    }
-}
+//         console.log(arr[i][j]);
+//     }
+// }
