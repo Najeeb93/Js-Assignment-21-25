@@ -648,9 +648,9 @@
 // let x = 'false';
 // let y = !x;
 // console.log(y);
-var name = 'john';
-function sayName(){
-    console.log(name);
-    var name = 'jane'
-}
-sayName();
+// var name = 'john';
+// function sayName(){
+//     console.log(name);
+//     var name = 'jane'
+// }
+// sayName();
