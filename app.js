@@ -645,3 +645,6 @@
 // }
 // const strings = ['apple','elderberry','cherry','date','banana'];
 // console.log(sortStringa(strings));
+let x = 'false';
+let y = !x;
+console.log(y);
