@@ -664,3 +664,6 @@
 //     }
 // };
 // console.log(obj.getId());
+let  x = 6;
+x++;
+console.log(x);
