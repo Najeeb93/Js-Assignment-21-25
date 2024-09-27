@@ -657,10 +657,10 @@
 // const arr = [1,2,3];
 // delete arr[0];
 // console.log(arr);
-const obj = {
-    id: 42,
-    getId: () => {
-        return this.id;
-    }
-};
-console.log(obj.getId());
+// const obj = {
+//     id: 42,
+//     getId: () => {
+//         return this.id;
+//     }
+// };
+// console.log(obj.getId());
