@@ -700,7 +700,7 @@
 //     console.log(a);
 //     var a = 20;
 // })();
-function foo(a, a) {
-    console.log(a);
-}
- foo(1, 2);
+// function foo(a, a) {
+//     console.log(a);
+// }
+//  foo(1, 2);
