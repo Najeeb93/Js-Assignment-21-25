@@ -681,6 +681,6 @@
 //         console.log(i);
 //     }, 1)
 // }
-const obj = { x: 1, y: 2};
-const key = ['x'];
-console.log(obj[key]);
+// const obj = { x: 1, y: 2};
+// const key = ['x'];
+// console.log(obj[key]);
