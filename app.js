@@ -684,6 +684,6 @@
 // const obj = { x: 1, y: 2};
 // const key = ['x'];
 // console.log(obj[key]);
-const number = [1,2,3];
-const [x,y,z] = number;
-console.log(x,y,z);
+// const number = [1,2,3];
+// const [x,y,z] = number;
+// console.log(x,y,z);
