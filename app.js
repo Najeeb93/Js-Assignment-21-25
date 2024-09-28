@@ -667,3 +667,7 @@
 // let  x = 6;
 // x++;
 // console.log(x);
+let number = 0;
+console.log(number++);
+console.log(++number);
+console.log(number);
