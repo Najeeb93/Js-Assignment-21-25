@@ -676,8 +676,8 @@
 //     console.log(a, arguments[0]);
 // }
 // foo(1, 2, 3)
-for(var i = 0; i < 3; i++) {
-    setTimeout(() => {
-        console.log(i);
-    }, 1)
-}
+// for(var i = 0; i < 3; i++) {
+//     setTimeout(() => {
+//         console.log(i);
+//     }, 1)
+// }
