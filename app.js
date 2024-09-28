@@ -695,3 +695,8 @@
 // }else {
 //     console.log("false");
 // }
+let a = 10;
+(() => {
+    console.log(a);
+    var a = 20;
+})();
