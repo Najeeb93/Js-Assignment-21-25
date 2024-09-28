@@ -687,3 +687,6 @@
 // const number = [1,2,3];
 // const [x,y,z] = number;
 // console.log(x,y,z);
+let a = [null];
+let b = 5;
+console.log(a ? a : b);
