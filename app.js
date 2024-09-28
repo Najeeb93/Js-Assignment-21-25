@@ -690,3 +690,8 @@
 // let a = [null];
 // let b = 5;
 // console.log(a ? a : b);
+if({}) {
+    console.log("true");
+}else {
+    console.log("false");
+}
