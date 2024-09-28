@@ -671,8 +671,8 @@
 // console.log(number++);
 // console.log(++number);
 // console.log(number);
-function foo(a, b, c) {
-    arguments[0] = 10;
-    console.log(a, arguments[0]);
-}
-foo(1, 2, 3)
+// function foo(a, b, c) {
+//     arguments[0] = 10;
+//     console.log(a, arguments[0]);
+// }
+// foo(1, 2, 3)
