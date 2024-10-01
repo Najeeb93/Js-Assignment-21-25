@@ -706,3 +706,7 @@
 //  foo(1, 2);
 // let num = 5.678;
 // console.log(num.toFixed(1));
+let a = 5 > 4;
+let b = 4 < 5;
+let  c = a >= b;
+console.log(c);
