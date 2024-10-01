@@ -704,5 +704,5 @@
 //     console.log(a);
 // }
 //  foo(1, 2);
-let num = 5.678;
-console.log(num.toFixed(1));
+// let num = 5.678;
+// console.log(num.toFixed(1));
