@@ -730,9 +730,9 @@
 // arr[10] = 10;
 // console.log(arr.length);
 // console.log(arr[9]);
-let obj = {
-    val: function (a) {
-        return a ** 3;
-    },
-};
-console.log(obj.val(3));
+// let obj = {
+//     val: function (a) {
+//         return a ** 3;
+//     },
+// };
+// console.log(obj.val(3));
