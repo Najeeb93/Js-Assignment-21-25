@@ -736,7 +736,7 @@
 //     },
 // };
 // console.log(obj.val(3));
-const x = [1,2,3];
-const y = x.reverse();
-console.log(y);
-console.log(x === y);
+// const x = [1,2,3];
+// const y = x.reverse();
+// console.log(y);
+// console.log(x === y);
