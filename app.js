@@ -717,3 +717,7 @@
 // let a = 'hello';
 // let b = [...a];
 // console.log(b.length);
+function add(x = 5, y = x) {
+    return x + y;
+}
+console.log(add(3));
