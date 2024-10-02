@@ -714,3 +714,6 @@
 // a[3] = 4;
 // a.push(5);
 // console.log(a);
+let a = 'hello';
+let b = [...a];
+console.log(b.length);
