@@ -721,8 +721,8 @@
 //     return x + y;
 // }
 // console.log(add(3));
-for(let i = 1; i < 5; i++) {
-    if(i == 5) {
-        console.log('i is 5 now');
-    }
-}
+// for(let i = 1; i < 5; i++) {
+//     if(i == 5) {
+//         console.log('i is 5 now');
+//     }
+// }
