@@ -752,7 +752,7 @@
 // let {address} = obj;
 // let {city} = address;
 // console.log(city);
-function hi() {
-    console.log('Hello');
-};
-console.log(window.hi());
+// function hi() {
+//     console.log('Hello');
+// };
+// console.log(window.hi());
