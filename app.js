@@ -744,3 +744,11 @@
 // const b = new Number(5);
 // console.log(a == b);
 // console.log(a === b);
+let obj = {
+    address: {
+        city: 'Karachi',
+    },
+};
+let {address} = obj;
+let {city} = address;
+console.log(city);
