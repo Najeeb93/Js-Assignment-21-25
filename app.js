@@ -740,3 +740,7 @@
 // const y = x.reverse();
 // console.log(y);
 // console.log(x === y);
+const a = 5;
+const b = new Number(5);
+console.log(a == b);
+console.log(a === b);
