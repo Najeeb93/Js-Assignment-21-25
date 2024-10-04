@@ -760,8 +760,8 @@
 // console.log(add(2,3,4));
 // const value = ' "" ';
 // console.log(Boolean(value));
-let names = ['baby', 'is', 'cute'];
-let res = names.forEach((name) => {
-    return name;
-});
-console.log(res);
+// let names = ['baby', 'is', 'cute'];
+// let res = names.forEach((name) => {
+//     return name;
+// });
+// console.log(res);
