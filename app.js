@@ -758,3 +758,5 @@
 // console.log(window.hi());
 // const add = (a, b) => a + b;
 // console.log(add(2,3,4));
+const value = ' "" ';
+console.log(Boolean(value));
