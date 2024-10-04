@@ -765,6 +765,6 @@
 //     return name;
 // });
 // console.log(res);
-let a = [0];
-a = a ? "Yes" : "No";
-console.log(a);
+// let a = [0];
+// a = a ? "Yes" : "No";
+// console.log(a);
