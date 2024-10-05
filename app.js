@@ -768,9 +768,9 @@
 // let a = [0];
 // a = a ? "Yes" : "No";
 // console.log(a);
-let a = 1;
-function test() {
-    console.log(a);
-    let a = 2;
-}
-test();
+// let a = 1;
+// function test() {
+//     console.log(a);
+//     let a = 2;
+// }
+// test();
