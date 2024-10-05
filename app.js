@@ -778,6 +778,6 @@
 // let str2 = str1;
 // str2 = 'ofcode';
 // console.log(str1);
-let a = 45;
-let b = a++;
-console.log(b);
+// let a = 45;
+// let b = a++;
+// console.log(b);
