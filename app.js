@@ -774,7 +774,7 @@
 //     let a = 2;
 // }
 // test();
-let str1 = 'engineer';
-let str2 = str1;
-str2 = 'ofcode';
-console.log(str1);
+// let str1 = 'engineer';
+// let str2 = str1;
+// str2 = 'ofcode';
+// console.log(str1);
