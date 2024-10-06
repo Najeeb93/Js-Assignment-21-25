@@ -814,6 +814,6 @@
 // let b = a++;
 // let c = a + 1;
 // console.log(a, b, c);
-const arr = [0,1,2,3];
-let pop = arr.pop();
-console.log(arr, pop);
+// const arr = [0,1,2,3];
+// let pop = arr.pop();
+// console.log(arr, pop);
