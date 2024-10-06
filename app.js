@@ -792,21 +792,21 @@
 // let a = 10;
 // let b = a++;
 // console.log(a, b);
-const monthNames = {
-    1: 'January',
-    2: 'February',
-    3: 'March',
-    4: 'April',
-    5: 'May',
-    6: 'June',
-    7: 'July',
-    8: 'August',
-    9: 'September',
-    10: 'October',
-    11: 'November',
-    12: 'December',
-};
-function getMonthName(monthNumber) {
-    return monthNames[monthNumber] || 'unknown'
-}
-console.log(getMonthName(1));
+// const monthNames = {
+//     1: 'January',
+//     2: 'February',
+//     3: 'March',
+//     4: 'April',
+//     5: 'May',
+//     6: 'June',
+//     7: 'July',
+//     8: 'August',
+//     9: 'September',
+//     10: 'October',
+//     11: 'November',
+//     12: 'December',
+// };
+// function getMonthName(monthNumber) {
+//     return monthNames[monthNumber] || 'unknown'
+// }
+// console.log(getMonthName(1));
