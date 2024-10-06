@@ -781,3 +781,6 @@
 // let a = 45;
 // let b = a++;
 // console.log(b);
+const arr = [0,1,2];
+arr[arr.length] = arr.length;
+console.log(arr);
