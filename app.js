@@ -810,3 +810,7 @@
 //     return monthNames[monthNumber] || 'unknown'
 // }
 // console.log(getMonthName(1));
+let a = 5;
+let b = a++;
+let c = a + 1;
+console.log(a, b, c);
