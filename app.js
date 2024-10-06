@@ -784,3 +784,8 @@
 // const arr = [0,1,2];
 // arr[arr.length] = arr.length;
 // console.log(arr);
+let obj = {
+    hi: 'hello',
+    me: 'you',
+};
+console.log(obj.length);
