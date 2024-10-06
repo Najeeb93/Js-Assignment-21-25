@@ -789,6 +789,6 @@
 //     me: 'you',
 // };
 // console.log(obj.length);
-let a = 10;
-let b = a++;
-console.log(a, b);
+// let a = 10;
+// let b = a++;
+// console.log(a, b);
