@@ -793,7 +793,7 @@
 // let b = a++;
 // console.log(a, b);
 const monthNames = {
-    1: 'Januart',
+    1: 'January',
     2: 'February',
     3: 'March',
     4: 'April',
@@ -806,3 +806,7 @@ const monthNames = {
     11: 'November',
     12: 'December',
 };
+function getMonthName(monthNumber) {
+    return monthNames[monthNumber] || 'unknown'
+}
+console.log(getMonthName(1));
