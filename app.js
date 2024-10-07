@@ -820,3 +820,6 @@
 // let x = 10.5;
 // let y = parseInt(x);
 // console.log(y);
+let str = 'Hello Baby';
+let index = str.indexOf('Baby');
+console.log(index);
