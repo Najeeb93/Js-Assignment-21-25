@@ -817,3 +817,6 @@
 // const arr = [0,1,2,3];
 // let pop = arr.pop();
 // console.log(arr, pop);
+let x = 10.5;
+let y = parseInt(x);
+console.log(y);
