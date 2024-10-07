@@ -823,9 +823,9 @@
 // let str = 'Hello Baby';
 // let index = str.indexOf('Baby');
 // console.log(index);
-let x = 10;
-function increase() {
-    x += 3;
-    console.log(x);
-}
- increase();
+// let x = 10;
+// function increase() {
+//     x += 3;
+//     console.log(x);
+// }
+//  increase();
