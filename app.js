@@ -832,3 +832,6 @@
 // let arr = ['karachi','lahore','islamabad'];
 // arr[0] = arr[2], arr[2] = arr[0][0];
 // console.log(arr);
+let arr = ['cat','dog','fish'];
+arr[0] = arr[1], arr[1] = arr[0][0];
+console.log(arr);
