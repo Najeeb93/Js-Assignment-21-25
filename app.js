@@ -835,6 +835,6 @@
 // let arr = ['cat','dog','fish'];
 // arr[0] = arr[1], arr[1] = arr[0][0];
 // console.log(arr);
-let num = 8;
-let result = num > 5 ? 'Yes' : 'No';
-console.log(result);
+// let num = 8;
+// let result = num > 5 ? 'Yes' : 'No';
+// console.log(result);
