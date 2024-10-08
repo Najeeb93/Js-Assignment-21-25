@@ -829,6 +829,6 @@
 //     console.log(x);
 // }
 //  increase();
-let arr = ['karachi','lahore','islamabad'];
-arr[0] = arr[2], arr[2] = arr[0][0];
-console.log(arr);
+// let arr = ['karachi','lahore','islamabad'];
+// arr[0] = arr[2], arr[2] = arr[0][0];
+// console.log(arr);
