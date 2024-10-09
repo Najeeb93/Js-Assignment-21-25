@@ -838,3 +838,7 @@
 // let num = 8;
 // let result = num > 5 ? 'Yes' : 'No';
 // console.log(result);
+const arr = [1,2,3];
+arr[10] = 10;
+console.log(arr.length);
+console.log(arr[9]);
