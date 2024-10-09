@@ -842,6 +842,6 @@
 // arr[10] = 10;
 // console.log(arr.length);
 // console.log(arr[9]);
-let a = typeof 1;
-let b = typeof a;
-console.log(b);
+// let a = typeof 1;
+// let b = typeof a;
+// console.log(b);
