@@ -845,3 +845,8 @@
 // let a = typeof 1;
 // let b = typeof a;
 // console.log(b);
+let num = 1;
+num++;
+++num;
+console.log(num++);
+console.log(++num);
