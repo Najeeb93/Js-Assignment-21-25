@@ -856,3 +856,6 @@
 // } else {
 //     console.log('Do Work');
 // }
+const arr = ['a','b', 'c'];
+arr.length = 1;
+console.log(arr);
