@@ -850,9 +850,9 @@
 // ++num;
 // console.log(num++);
 // console.log(++num);
-const day = 'Saturday';
-if('Sunday') {
-    console.log('Call Baby');
-} else {
-    console.log('Do Work');
-}
+// const day = 'Saturday';
+// if('Sunday') {
+//     console.log('Call Baby');
+// } else {
+//     console.log('Do Work');
+// }
