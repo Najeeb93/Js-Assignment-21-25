@@ -859,3 +859,7 @@
 // const arr = ['a','b', 'c'];
 // arr.length = 1;
 // console.log(arr);
+let a = 1;
+let b = 2;
+[a, b] = [b, a];
+console.log(a, b);
