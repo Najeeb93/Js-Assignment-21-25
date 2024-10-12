@@ -868,6 +868,6 @@
 //     console.log(a, arguments[0]);
 // }
 // foo(1, 2, 3)
-const arr = [1,2,3];
-const res = arr.reverse();
-console.log(arr[0]);
+// const arr = [1,2,3];
+// const res = arr.reverse();
+// console.log(arr[0]);
