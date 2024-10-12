@@ -863,3 +863,8 @@
 // let b = 2;
 // [a, b] = [b, a];
 // console.log(a, b);
+function foo(a, b, c) {
+    arguments[0] = 10;
+    console.log(a, arguments[0]);
+}
+foo(1, 2, 3)
