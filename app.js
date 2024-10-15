@@ -875,3 +875,6 @@
 // arr.push(4);
 // arr.unshift(0);
 // console.log(arr.length);
+let x = '8';
+let y = 1;
+console.log((+x)+y+1);
