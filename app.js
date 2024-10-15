@@ -882,6 +882,6 @@
 // arr[1] = 4;
 // arr[2] = arr[1];
 // console.log(arr);
-const arr = [1,2,3,4];
-arr.length = 2;
-console.log(arr);
+// const arr = [1,2,3,4];
+// arr.length = 2;
+// console.log(arr);
