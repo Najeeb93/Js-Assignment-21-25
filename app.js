@@ -891,6 +891,6 @@
 // const array = [1,1,2,3,6,6,3,1];
 // const uniqueArray = [...new Set(array)];
 // console.log(uniqueArray);
-let x = [2];
-let y = 2;
-console.log(x == y);
+// let x = [2];
+// let y = 2;
+// console.log(x == y);
