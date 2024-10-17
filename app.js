@@ -896,6 +896,6 @@
 // console.log(x == y);
 // let newArr = [1,2,3].push(4);
 // console.log(newArr);
-const num = [1,2,3];
-num.length = 0;
-console.log(num);
+// const num = [1,2,3];
+// num.length = 0;
+// console.log(num);
