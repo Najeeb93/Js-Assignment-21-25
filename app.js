@@ -899,3 +899,6 @@
 // const num = [1,2,3];
 // num.length = 0;
 // console.log(num);
+let a = [null];
+let b = 5;
+console.log(a ? a : b);
