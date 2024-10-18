@@ -902,6 +902,6 @@
 // let a = [null];
 // let b = 5;
 // console.log(a ? a : b);
-let fruits = ['apple','banana','cherry'];
-let [fruit, ...rest] = fruits;
-console.log(rest.length);
+// let fruits = ['apple','banana','cherry'];
+// let [fruit, ...rest] = fruits;
+// console.log(rest.length);
