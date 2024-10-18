@@ -910,5 +910,5 @@
 // a = 20;
 // console.log(a);
 // console.log(b);
-const arr = ['baby','baby'];
-console.log(arr[2]);
+// const arr = ['baby','baby'];
+// console.log(arr[2]);
