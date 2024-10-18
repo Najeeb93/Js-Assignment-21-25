@@ -905,8 +905,8 @@
 // let fruits = ['apple','banana','cherry'];
 // let [fruit, ...rest] = fruits;
 // console.log(rest.length);
-let a = 10;
-let b = a;
-a = 20;
-console.log(a);
-console.log(b);
+// let a = 10;
+// let b = a;
+// a = 20;
+// console.log(a);
+// console.log(b);
