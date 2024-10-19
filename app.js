@@ -922,3 +922,9 @@
 //     let name = 'Cyko'
 // }
 // getName();
+count = 1;
+var count = 0;
+function counter() {
+    return count++;
+}
+console.log(counter());
