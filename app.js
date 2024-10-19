@@ -916,9 +916,9 @@
 // let b = a;
 // a = { name: 'Bob'};
 // console.log(b.name);
-let name = 'Baby';
-function getName() {
-    console.log(name);
-    let name = 'Cyko'
-}
-getName();
+// let name = 'Baby';
+// function getName() {
+//     console.log(name);
+//     let name = 'Cyko'
+// }
+// getName();
