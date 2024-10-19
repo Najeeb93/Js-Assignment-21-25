@@ -912,7 +912,7 @@
 // console.log(b);
 // const arr = ['baby','baby'];
 // console.log(arr[2]);
-let a = { name: 'Alice'};
-let b = a;
-a = { name: 'Bob'};
-console.log(b.name);
+// let a = { name: 'Alice'};
+// let b = a;
+// a = { name: 'Bob'};
+// console.log(b.name);
