@@ -928,8 +928,8 @@
 //     return count++;
 // }
 // console.log(counter());
-const obj = {
-    name: 'Alice',
-    name:   'John'
-};
-console.log(obj.name);
+// const obj = {
+//     name: 'Alice',
+//     name:   'John'
+// };
+// console.log(obj.name);
