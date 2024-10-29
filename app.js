@@ -942,5 +942,5 @@
 // arr.sort();
 // arr.reverse();
 // console.log(arr);
-const value = ' "" ';
-console.log(Boolean(value));
+// const value = ' "" ';
+// console.log(Boolean(value));
