@@ -944,3 +944,6 @@
 // console.log(arr);
 // const value = ' "" ';
 // console.log(Boolean(value));
+const arr = ['a','b','c'];
+arr.length = 1;
+console.log(arr);
