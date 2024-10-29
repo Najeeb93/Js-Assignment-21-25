@@ -938,3 +938,7 @@
 //     let x = 20;
 // }
 // console.log(x);
+const arr = [3,2,1];
+arr.sort();
+arr.reverse();
+console.log(arr);
