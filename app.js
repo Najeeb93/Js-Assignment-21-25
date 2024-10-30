@@ -950,3 +950,6 @@
 // let x = 1;
 // let y = x++ - x;
 // console.log(y);
+let x = true + true;
+let y = x + false;
+console.log(y);
