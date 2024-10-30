@@ -953,3 +953,13 @@
 // let x = true + true;
 // let y = x + false;
 // console.log(y);
+var number = 50;
+console.log(number);
+function print() {
+    if(true) {
+        number = 60
+        console.log(number);
+    }
+}
+print()
+console.log(number);
