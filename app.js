@@ -947,6 +947,6 @@
 // const arr = ['a','b','c'];
 // arr.length = 1;
 // console.log(arr);
-let x = 1;
-let y = x++ - x;
-console.log(y);
+// let x = 1;
+// let y = x++ - x;
+// console.log(y);
