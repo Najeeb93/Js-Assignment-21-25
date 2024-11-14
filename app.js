@@ -966,3 +966,7 @@
 // const age = 18;
 // const allowed = age >= 18 ? 'Yes' : 'No';
 // console.log(allowed);
+function getAge(...args){
+    console.log(typeof args);
+}
+getAge(10);
