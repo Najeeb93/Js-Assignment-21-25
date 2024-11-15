@@ -970,3 +970,11 @@
 //     console.log(typeof args);
 // }
 // getAge(10);
+const profile = {
+    name: 'Codecrumbs',
+    language: 'JavaScript'
+};
+
+const {name, language} = profile;
+console.log(name);
+console.log(language);
