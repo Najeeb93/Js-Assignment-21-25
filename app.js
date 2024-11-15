@@ -986,6 +986,6 @@
 // let {address} = obj;
 // let {city} = address;
 // console.log(city);
-const user = {id: 1, name:'Alex'};
-const {id, age = 25} = user;
-console.log(age);
+// const user = {id: 1, name:'Alex'};
+// const {id, age = 25} = user;
+// console.log(age);
