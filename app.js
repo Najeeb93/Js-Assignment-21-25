@@ -978,11 +978,11 @@
 // const {name, language} = profile;
 // console.log(name);
 // console.log(language);
-let obj = {
-    address: {
-        city: 'Karachi',
-    },
-};
-let {address} = obj;
-let {city} = address;
-console.log(city);
+// let obj = {
+//     address: {
+//         city: 'Karachi',
+//     },
+// };
+// let {address} = obj;
+// let {city} = address;
+// console.log(city);
