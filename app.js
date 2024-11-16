@@ -990,4 +990,4 @@
 // const {id, age = 25} = user;
 // console.log(age);
 // console.log([10] == 10);
-console.log(!!"");
+// console.log(!!"");
