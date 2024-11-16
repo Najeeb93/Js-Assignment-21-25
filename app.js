@@ -991,6 +991,6 @@
 // console.log(age);
 // console.log([10] == 10);
 // console.log(!!"");
-let fruits = ['apple', 'banana','cherry'];
-let [first, ...rest] = fruits;
-console.log(rest.length);
+// let fruits = ['apple', 'banana','cherry'];
+// let [first, ...rest] = fruits;
+// console.log(rest.length);
