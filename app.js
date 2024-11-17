@@ -994,6 +994,6 @@
 // let fruits = ['apple', 'banana','cherry'];
 // let [first, ...rest] = fruits;
 // console.log(rest.length);
-let{a,b} = {a: 4, b: 8};
-let c = b - a;
-console.log(c);
+// let{a,b} = {a: 4, b: 8};
+// let c = b - a;
+// console.log(c);
