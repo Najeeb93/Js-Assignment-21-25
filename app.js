@@ -1000,5 +1000,5 @@
 // const arr1 = [1,2,3];
 // const arr2 =[...arr1, 4,5];
 // console.log(arr2);
-let result = '5' + 2 - 1;
-console.log(typeof result);
+// let result = '5' + 2 - 1;
+// console.log(typeof result);
