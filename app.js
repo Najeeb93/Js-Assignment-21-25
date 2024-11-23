@@ -1006,3 +1006,5 @@
 // const {name: userName, age: userAge} = user;
 // console.log(userName);
 // console.log(userAge);
+let text = 'JavaScript';
+console.log(text.indexOf('a',2));
