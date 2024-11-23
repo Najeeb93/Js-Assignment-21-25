@@ -1002,7 +1002,7 @@
 // console.log(arr2);
 // let result = '5' + 2 - 1;
 // console.log(typeof result);
-const user = {name: 'Alice', age: 25};
-const {name: userName, age: userAge} = user;
-console.log(userName);
-console.log(userAge);
+// const user = {name: 'Alice', age: 25};
+// const {name: userName, age: userAge} = user;
+// console.log(userName);
+// console.log(userAge);
