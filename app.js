@@ -1008,3 +1008,6 @@
 // console.log(userAge);
 // let text = 'JavaScript';
 // console.log(text.indexOf('a',2));
+let count = 0;
+const increment = () => ++count;
+console.log(typeof increment);
