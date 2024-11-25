@@ -1014,8 +1014,8 @@
 // let x = 6;
 // ++x;
 // console.log(x);
-function Test() {
-    let a = 'JavaScript';
-    return a;
-}
-console.log(Test());
+// function Test() {
+//     let a = 'JavaScript';
+//     return a;
+// }
+// console.log(Test());
