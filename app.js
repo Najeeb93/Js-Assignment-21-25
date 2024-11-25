@@ -1011,6 +1011,6 @@
 // let count = 0;
 // const increment = () => ++count;
 // console.log(typeof increment);
-let x = 6;
-++x;
-console.log(x);
+// let x = 6;
+// ++x;
+// console.log(x);
