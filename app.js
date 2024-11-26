@@ -1027,3 +1027,6 @@
 // for(const letter of word) {
 //     console.log(letter);
 // };
+let str = 'Baby';
+str[1] = 'A';
+console.log(str);
