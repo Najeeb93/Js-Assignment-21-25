@@ -1023,7 +1023,7 @@
 // let arr2 = [...arr1, 3];
 // arr1[0] = 4;
 // console.log(arr2[0]);
-const word = 'hello';
-for(const letter of word) {
-    console.log(letter);
-};
+// const word = 'hello';
+// for(const letter of word) {
+//     console.log(letter);
+// };
