@@ -1030,8 +1030,8 @@
 // let str = 'Baby';
 // str[1] = 'A';
 // console.log(str);
-let names = ['baby', 'is', 'cute'];
-let res = names.forEach((name) => {
-    return name;
-});
-console.log(res);
+// let names = ['baby', 'is', 'cute'];
+// let res = names.forEach((name) => {
+//     return name;
+// });
+// console.log(res);
