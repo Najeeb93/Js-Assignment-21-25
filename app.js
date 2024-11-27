@@ -1041,3 +1041,10 @@
 //     console.log(x);
 // }
 // console.log(x);
+function sample() {
+    setTimeout(() => console.log(1), 2000);
+    console.log(2);
+    setTimeout(() => console.log(3), 0)
+    console.log(4);
+}
+sample();
