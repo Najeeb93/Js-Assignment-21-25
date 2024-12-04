@@ -1048,3 +1048,7 @@
 //     console.log(4);
 // }
 // sample();
+let a = 2;
+let b = a;
+let c = (a + b) / 2;
+console.log((a + b + c) / 2);
