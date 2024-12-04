@@ -1052,8 +1052,8 @@
 // let b = a;
 // let c = (a + b) / 2;
 // console.log((a + b + c) / 2);
-let a = 5;
-let b = a;
-b = 10;
-console.log(a);
-console.log(b);
+// let a = 5;
+// let b = a;
+// b = 10;
+// console.log(a);
+// console.log(b);
