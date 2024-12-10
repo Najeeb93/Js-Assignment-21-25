@@ -1069,5 +1069,5 @@
 //     text += person[x];
 // }
 // console.log(text);
-let value = false && 'hello';
-console.log(value);
+// let value = false && 'hello';
+// console.log(value);
