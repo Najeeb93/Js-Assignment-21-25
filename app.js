@@ -1071,3 +1071,7 @@
 // console.log(text);
 // let value = false && 'hello';
 // console.log(value);
+let arr1 = [1,2];
+let arr2 = [...arr1, 3];
+arr1[0] = 4;
+console.log(arr2[0]);
