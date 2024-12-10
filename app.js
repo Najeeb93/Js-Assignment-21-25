@@ -1057,9 +1057,9 @@
 // b = 10;
 // console.log(a);
 // console.log(b);
-const cars = ['BMW','Volvo','Mini'];
-let test = '';
-for(let key of cars) {
-    test += key;
-}
-console.log(test);
+// const cars = ['BMW','Volvo','Mini'];
+// let test = '';
+// for(let key of cars) {
+//     test += key;
+// }
+// console.log(test);
