@@ -1075,3 +1075,11 @@
 // let arr2 = [...arr1, 3];
 // arr1[0] = 4;
 // console.log(arr2[0]);
+
+// write a  function that returns the reverse of a string 
+function reverseString(inputString) {
+    console.log(inputString[0]);
+    
+}
+
+console.log(reverseString('Najeeb'));
