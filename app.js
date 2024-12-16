@@ -1078,9 +1078,12 @@
 
 // write a  function that returns the reverse of a string 
 function reverseString(inputString) {
+    let result = '';
     for(let i = inputString.length - 1; i >= 0; i--){
-        console.log(inputString[i]);
+        result += inputString[i]
+        
     }
+    console.log(result);
 }
 
 console.log(reverseString('Najeeb'));
