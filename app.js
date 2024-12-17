@@ -1096,3 +1096,6 @@
 //Factorial of 5 = 5*4*3*2*1 = 120
 //Factorial of 4 = 4*3*2*1 = 24
 
+function calculateFactorial(inputNumber) {
+
+}
