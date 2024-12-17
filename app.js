@@ -1091,3 +1091,8 @@
 // Write a funtion that calculate factorial of a given number
 //Input: A number, postive integer > 0, 1, 4, 7...
 //Return: Factorial of that number
+//Factorial: Multiplication of all postive integer from 1 to given number
+//Example 
+//Factorial of 5 = 5*4*3*2*1 = 120
+//Factorial of 4 = 4*3*2*1 = 24
+
