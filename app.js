@@ -1087,3 +1087,7 @@
 // }
 
 // console.log(reverseString('Najeeb'));
+
+// Write a funtion that calculate factorial of a given number
+//Input: A number, postive integer > 0, 1, 4, 7...
+//Return: Factorial of that number
