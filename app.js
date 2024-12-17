@@ -1099,7 +1099,7 @@
 function calculateFactorial(inputNumber) {
     let result = 1;
     for(let i = 1; i <= inputNumber; i++) {
-        result = result *  i;
+        result *= i;
     }
     console.log(result); 
 }
