@@ -1096,11 +1096,11 @@
 //Factorial of 5 = 5*4*3*2*1 = 120
 //Factorial of 4 = 4*3*2*1 = 24
 
-function calculateFactorial(inputNumber) {
-    let result = 1;
-    for(let i = 1; i <= inputNumber; i++) {
-        result *= i;
-    }
-    console.log(result); 
-}
- console.log(calculateFactorial(4));
+// function calculateFactorial(inputNumber) {
+//     let result = 1;
+//     for(let i = 1; i <= inputNumber; i++) {
+//         result *= i;
+//     }
+//     console.log(result); 
+// }
+//  console.log(calculateFactorial(4));
