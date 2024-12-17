@@ -1097,8 +1097,10 @@
 //Factorial of 4 = 4*3*2*1 = 24
 
 function calculateFactorial(inputNumber) {
+    let result = 1;
     for(let i = 1; i <= inputNumber; i++) {
-        console.log(i);
+        result = result *  i;
     }
+    console.log(result); 
 }
  console.log(calculateFactorial(4));
