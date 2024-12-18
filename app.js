@@ -1109,3 +1109,5 @@
 // Input: A number, postive integer > 1900, 2023, 2033
 // Return: true if leap year, false if not leap year
 // Leap year: Every 4th year is a leap year
+// Leap year 366 days
+// Normal year has 365 days
