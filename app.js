@@ -1111,3 +1111,7 @@
 // Leap year: Every 4th year is a leap year
 // Leap year 366 days
 // Normal year has 365 days
+
+function isLeapYear(year) {
+    
+}
