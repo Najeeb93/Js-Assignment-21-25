@@ -1112,11 +1112,11 @@
 // Leap year 366 days
 // Normal year has 365 days
 
-function isLeapYear(year) {
-    if(year % 4 === 0) {
-        return true;
-    } else {
-        return false;
-    }
-}
-console.log(isLeapYear(2024));
+// function isLeapYear(year) {
+//     if(year % 4 === 0) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }
+// console.log(isLeapYear(2024));
