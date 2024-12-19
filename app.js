@@ -1123,3 +1123,5 @@
 
 // Writr function that calculates and prints the sum of the digits of given number
 // Input: A number, postive integer-> 12, 34, 123, 1234
+// Return: sum of all digits
+// Example: 12: 1 + 2 = 3, 23: 2 + 3 = 5, 456: 4 + 5 + 6 = 15
