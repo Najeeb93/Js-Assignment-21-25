@@ -1132,9 +1132,11 @@ function calculateSumOfDigits(inputNumber) {
     } 
     const inputNumberToString = inputNumber.toString();
     const splittedInputString = inputNumberToString.split('');
-    console.log(splittedInputString);
-    
-      
+    let sumOfDigits = 0;
+    splittedInputString.forEach(num => {
+        sumOfDigits += parseInt(num);
+    })
+    return sumOfDigits;
 }
 
-console.log(calculateSumOfDigits(12));
+console.log(calculateSumOfDigits(23));
