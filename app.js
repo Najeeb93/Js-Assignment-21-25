@@ -1129,6 +1129,7 @@
 function calculateSumOfDigits(inputNumber) {
     if(inputNumber < 1) {
         throw new Error("inputNumber must be a postive number");
-        
-    }
+    }   
 }
+
+console.log(calculateSumOfDigits(12));
