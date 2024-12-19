@@ -1120,3 +1120,6 @@
 //     }
 // }
 // console.log(isLeapYear(2024));
+
+// Writr function that calculates and prints the sum of the digits of given number
+// Input: A number, postive integer-> 12, 34, 123, 1234
