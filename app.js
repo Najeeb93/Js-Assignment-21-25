@@ -1131,7 +1131,9 @@ function calculateSumOfDigits(inputNumber) {
         throw new Error("inputNumber must be a postive number");
     } 
     const inputNumberToString = inputNumber.toString();
-    console.log(inputNumberToString);
+    const splittedInputString = inputNumberToString.split('');
+    console.log(splittedInputString);
+    
       
 }
 
