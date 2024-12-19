@@ -1127,5 +1127,8 @@
 // Example: 12: 1 + 2 = 3, 23: 2 + 3 = 5, 456: 4 + 5 + 6 = 15
 
 function calculateSumOfDigits(inputNumber) {
-    
+    if(inputNumber < 1) {
+        throw new Error("inputNumber must be a postive number");
+        
+    }
 }
