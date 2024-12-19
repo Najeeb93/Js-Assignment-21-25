@@ -1126,17 +1126,17 @@
 // Return: sum of all digits
 // Example: 12: 1 + 2 = 3, 23: 2 + 3 = 5, 456: 4 + 5 + 6 = 15
 
-function calculateSumOfDigits(inputNumber) {
-    if(inputNumber < 1) {
-        throw new Error("inputNumber must be a postive number");
-    } 
-    const inputNumberToString = inputNumber.toString();
-    const splittedInputString = inputNumberToString.split('');
-    let sumOfDigits = 0;
-    splittedInputString.forEach(num => {
-        sumOfDigits += parseInt(num);
-    })
-    return sumOfDigits;
-}
+// function calculateSumOfDigits(inputNumber) {
+//     if(inputNumber < 1) {
+//         throw new Error("inputNumber must be a postive number");
+//     } 
+//     const inputNumberToString = inputNumber.toString();
+//     const splittedInputString = inputNumberToString.split('');
+//     let sumOfDigits = 0;
+//     splittedInputString.forEach(num => {
+//         sumOfDigits += parseInt(num);
+//     })
+//     return sumOfDigits;
+// }
 
-console.log(calculateSumOfDigits(23));
+// console.log(calculateSumOfDigits(23));
