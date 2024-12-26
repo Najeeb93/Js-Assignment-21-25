@@ -1147,11 +1147,11 @@
 // Table till
 // Example: 4, 10 => 4, 8, 12.....40
 
-function printMultiplicationTable(tableOf, tableTill) {
-    console.log(tableOf, tableTill);
-    for(let i = 1; i <= tableTill; i++) {
-        console.log(`${tableOf} * ${i} = ${i * tableOf}`);
-    }
-}
+// function printMultiplicationTable(tableOf, tableTill) {
+//     console.log(tableOf, tableTill);
+//     for(let i = 1; i <= tableTill; i++) {
+//         console.log(`${tableOf} * ${i} = ${i * tableOf}`);
+//     }
+// }
 
-printMultiplicationTable(3, 10)
+// printMultiplicationTable(3, 10)
