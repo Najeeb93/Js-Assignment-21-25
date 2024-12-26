@@ -1140,3 +1140,8 @@
 // }
 
 // console.log(calculateSumOfDigits(23));
+
+// Write a function that generates and prints a multiplication table for a given number up to a specified range
+// Input: 2 Postive Number
+// Table of
+// Table till
