@@ -1160,3 +1160,8 @@
 // Input: Array of numbers
 // Return: Biggest number
 // Example: [1, 2, 3, 4, 5] => 5 
+
+function findTheBiggestNumber(arrayOfNumber) {
+    console.log(arrayOfNumber);
+}
+findTheBiggestNumber([1, 2, 3, 4, 5]);
