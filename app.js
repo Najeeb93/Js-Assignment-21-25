@@ -1145,3 +1145,4 @@
 // Input: 2 Postive Number
 // Table of
 // Table till
+// Example: 4, 10 => 4, 8, 12.....40
