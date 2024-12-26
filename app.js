@@ -1155,3 +1155,6 @@
 // }
 
 // printMultiplicationTable(3, 10)
+
+// Write a function that finds and prints the maximum element in an array of numbers.
+// Input: Array of numbers
