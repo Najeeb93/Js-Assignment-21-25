@@ -1146,3 +1146,9 @@
 // Table of
 // Table till
 // Example: 4, 10 => 4, 8, 12.....40
+
+function printMultiplicationTable(tableOf, tableTill) {
+    console.log(tableOf, tableTill);
+}
+
+printMultiplicationTable(4, 10)
