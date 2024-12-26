@@ -1158,3 +1158,5 @@
 
 // Write a function that finds and prints the maximum element in an array of numbers.
 // Input: Array of numbers
+// Return: Biggest number
+// Example: [1, 2, 3, 4, 5] => 5 
