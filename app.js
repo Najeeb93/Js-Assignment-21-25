@@ -1179,6 +1179,9 @@
 // Example: madam, level etc
 
 function isPalindrome(inputString) {
-    console.log(inputString);
+    for(let i = 0; i <= inputString.length - 1; i++) {
+        console.log(inputString[i]);
+        
+    }
 }
 isPalindrome("madam");
