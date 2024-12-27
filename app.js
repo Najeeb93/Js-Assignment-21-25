@@ -1178,15 +1178,15 @@
 // A palindrome is a word that reads the same backward or forward
 // Example: madam, level etc
 
-function isPalindrome(inputString) {
+// function isPalindrome(inputString) {
 
-    let start = 0;
-    let end = inputString.length - 1;
-    for(start, end; start < end; start++, end--) {
-        if(inputString[start] !== inputString[end]) {
-            return false;
-        }
-    }
-    return true;
-}
-console.log(isPalindrome('noon'));
+//     let start = 0;
+//     let end = inputString.length - 1;
+//     for(start, end; start < end; start++, end--) {
+//         if(inputString[start] !== inputString[end]) {
+//             return false;
+//         }
+//     }
+//     return true;
+// }
+// console.log(isPalindrome('noon'));
