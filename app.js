@@ -1161,13 +1161,13 @@
 // Return: Biggest number
 // Example: [1, 2, 3, 4, 5] => 5 
 
-function findTheBiggestNumber(arrayOfNumber) {
-    let biggestNumber = arrayOfNumber[0];
-    for(let i = 0; i < arrayOfNumber.length; i++) {
-        if(arrayOfNumber[i] > biggestNumber) {
-            biggestNumber = arrayOfNumber[i];
-        }
-    }
-    return biggestNumber
-}
-console.log(findTheBiggestNumber([1, 2, 43, 4, 12]));
+// function findTheBiggestNumber(arrayOfNumber) {
+//     let biggestNumber = arrayOfNumber[0];
+//     for(let i = 0; i < arrayOfNumber.length; i++) {
+//         if(arrayOfNumber[i] > biggestNumber) {
+//             biggestNumber = arrayOfNumber[i];
+//         }
+//     }
+//     return biggestNumber
+// }
+// console.log(findTheBiggestNumber([1, 2, 43, 4, 12]));
