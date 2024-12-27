@@ -1177,3 +1177,8 @@
 // Return: boolean, true if palindrome and false if not palindrome
 // A palindrome is a word that reads the same backward or forward
 // Example: madam, level etc
+
+function isPalindrome(inputString) {
+    console.log(inputString);
+}
+isPalindrome("madam");
