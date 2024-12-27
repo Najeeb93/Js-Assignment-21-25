@@ -1173,3 +1173,5 @@
 // console.log(findTheBiggestNumber([1, 2, 43, 4, 12]));
 
 // Write a function that checks if a string is palindrome or not
+// Input: A string
+// Return: boolean, true if palindrome and false if not palindrome
