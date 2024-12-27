@@ -1189,4 +1189,4 @@ function isPalindrome(inputString) {
     }
     return true;
 }
-console.log(isPalindrome('level'));
+console.log(isPalindrome('noon'));
