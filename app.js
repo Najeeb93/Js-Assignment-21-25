@@ -1192,3 +1192,5 @@
 // console.log(isPalindrome('noon'));
 
 // Write a function that returns the result of raising a given number to a specified power.
+// Input: Two numbers 1: Base, 2: Exponent
+// Return: Base to the power of exponent
