@@ -1199,7 +1199,7 @@
 function calculatePower(base, exponent) {
     let result = 1;
     for(let i = 1; i <= exponent; i++) {
-        result = result * base;
+        result *= base;
     }
     return result;
 }
