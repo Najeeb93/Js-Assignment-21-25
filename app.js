@@ -1195,3 +1195,10 @@
 // Input: Two numbers 1: Base, 2: Exponent
 // Return: Base to the power of exponent
 // Example: 2, 3: 2 * 2 * 2 = 8
+
+function calculatePower(base, exponent) {
+    for(let i = 1; i <= exponent; i++) {
+        console.log(i);
+    }
+}
+calculatePower(2, 3);
