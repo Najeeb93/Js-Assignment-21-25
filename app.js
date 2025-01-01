@@ -1206,3 +1206,5 @@
 // console.log(calculatePower(2, 3));
 
 // Write a function that counts and prints the number of vowels and consonants in given string
+// Input: String
+// Return: Vowel and Consonant count
