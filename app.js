@@ -1197,8 +1197,10 @@
 // Example: 2, 3: 2 * 2 * 2 = 8
 
 function calculatePower(base, exponent) {
+    let result = 1;
     for(let i = 1; i <= exponent; i++) {
-        console.log(i);
+        result = result * base;
     }
+    return result;
 }
-calculatePower(2, 3);
+console.log(calculatePower(2, 3));
