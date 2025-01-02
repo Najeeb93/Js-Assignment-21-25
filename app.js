@@ -1214,6 +1214,17 @@
 
 function calculateVowelAndConsonants(inputString) {
     let vowels = "aeiou";
-    let consonants = "bcdfghjklmnpqrstvwxyz"
+    let consonants = "bcdfghjklmnpqrstvwxyz";
+    let vowelCount = 0;
+    let consonantCount = 0;
+    for(let i = 1; i < inputString.length; i++) {
+        if(vowels.includes(inputString[i])) {
+            vowelCount++;
+        } else if (consonants.includes(inputString[i])) {
+            consonantCount++;
+        }
+    }
+    return {vowelCount, consonantCount}
 };
-calculateVowelAndConsonants('Hello World');
+
+console.log(calculateVowelAndConsonants('Hello World'));
