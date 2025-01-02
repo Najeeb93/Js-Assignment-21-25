@@ -1213,6 +1213,7 @@
 // Example: 'Hello World'=> 3 Vowels & 7 Consonants
 
 function calculateVowelAndConsonants(inputString) {
-    console.log(inputString);
+    let vowels = "aeiou";
+    let consonants = "bcdfghjklmnpqrstvwxyz"
 };
 calculateVowelAndConsonants('Hello World');
