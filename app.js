@@ -1211,3 +1211,8 @@
 // Vowel: a e i o u
 // Consonant: All other character
 // Example: 'Hello World'=> 3 Vowels & 7 Consonants
+
+function calculateVowelAndConsonants(inputString) {
+    console.log(inputString);
+};
+calculateVowelAndConsonants('Hello World');
