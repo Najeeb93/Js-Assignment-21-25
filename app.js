@@ -1210,3 +1210,4 @@
 // Return: Vowel and Consonant count
 // Vowel: a e i o u
 // Consonant: All other character
+// Example: 'Hello World'=> 3 Vowels & 7 Consonants
