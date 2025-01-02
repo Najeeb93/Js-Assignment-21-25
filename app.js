@@ -1227,4 +1227,4 @@ function calculateVowelAndConsonants(inputString) {
     return {vowelCount, consonantCount}
 };
 
-console.log(calculateVowelAndConsonants('Hello World'));
+console.log(calculateVowelAndConsonants('najeeb ahmed'));
