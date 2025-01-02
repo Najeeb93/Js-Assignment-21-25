@@ -1209,3 +1209,4 @@
 // Input: String
 // Return: Vowel and Consonant count
 // Vowel: a e i o u
+// Consonant: All other character
