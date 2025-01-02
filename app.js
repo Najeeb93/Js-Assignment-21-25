@@ -1208,3 +1208,4 @@
 // Write a function that counts and prints the number of vowels and consonants in given string
 // Input: String
 // Return: Vowel and Consonant count
+// Vowel: a e i o u
