@@ -1235,3 +1235,9 @@
 // Factor: Is a number that divides the given number evenly or
 // exactly, leaving no remainder
 // Example: 4: 1, 2, 4
+
+function calculateFactors(inputString) {
+    for(let i = 1; 1 <= inputString; i++) {
+        if(inputString % i === 0 )
+    }
+}
