@@ -1236,16 +1236,16 @@
 // exactly, leaving no remainder
 // Example: 4: 1, 2, 4
 
-function calculateFactors(inputString) {
-    let result = [];
-    for(let i = 1; i <= inputString; i++) {
-        if(inputString % i === 0) {
-            result.push(i)
-            console.log(i, "is a factor");
-        } else {
-            console.log(i, "Is not a factor");
-        }
-    }
-    return result;
-}
-console.log(calculateFactors(8));
+// function calculateFactors(inputString) {
+//     let result = [];
+//     for(let i = 1; i <= inputString; i++) {
+//         if(inputString % i === 0) {
+//             result.push(i)
+//             console.log(i, "is a factor");
+//         } else {
+//             console.log(i, "Is not a factor");
+//         }
+//     }
+//     return result;
+// }
+// console.log(calculateFactors(8));
