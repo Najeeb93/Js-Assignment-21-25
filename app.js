@@ -1234,3 +1234,4 @@
 // Return: Factors of a number
 // Factor: Is a number that divides the given number evenly or
 // exactly, leaving no remainder
+// Example: 4: 1, 2, 4
