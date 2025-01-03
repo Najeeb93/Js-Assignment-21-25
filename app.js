@@ -1230,3 +1230,4 @@
 // console.log(calculateVowelAndConsonants('najeeb ahmed'));
 
 // Write a function that finds all the factors of a given number.
+// Input: number, postive integer
