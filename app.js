@@ -1238,7 +1238,7 @@
 
 function calculateFactors(inputString) {
     let result = [];
-    for(let i = 1; 1 <= inputString; i++) {
+    for(let i = 1; i <= inputString; i++) {
         if(inputString % i === 0) {
             result.push(i)
             console.log(i, "is a factor");
@@ -1246,4 +1246,6 @@ function calculateFactors(inputString) {
             console.log(i, "Is not a factor");
         }
     }
+    return result;
 }
+console.log(calculateFactors(4));
