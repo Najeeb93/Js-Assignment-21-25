@@ -1248,4 +1248,4 @@ function calculateFactors(inputString) {
     }
     return result;
 }
-console.log(calculateFactors(4));
+console.log(calculateFactors(8));
