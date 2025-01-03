@@ -1238,6 +1238,10 @@
 
 function calculateFactors(inputString) {
     for(let i = 1; 1 <= inputString; i++) {
-        if(inputString % i === 0 )
+        if(inputString % i === 0) {
+            console.log(i, "is a factor");
+        } else {
+            console.log(i, "Is not a factor");
+        }
     }
 }
