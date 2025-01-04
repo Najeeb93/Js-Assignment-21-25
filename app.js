@@ -1256,12 +1256,12 @@
 // Average: Calculated by dividing that total of all the values by the number of values.
 // Examle: [1,2,3]: (1+2+3)/3 = 2.333
 
-function calculateAverage(inputArray) {
-    let sumOfElemnt = 0;
-    for(let i = 0; i < inputArray.length; i++) {
-        sumOfElemnt += inputArray[i];
-    }
-    let  result = sumOfElemnt / inputArray.length;
-    return result;
-};
-console.log(calculateAverage([1, 2, 7]));
+// function calculateAverage(inputArray) {
+//     let sumOfElemnt = 0;
+//     for(let i = 0; i < inputArray.length; i++) {
+//         sumOfElemnt += inputArray[i];
+//     }
+//     let  result = sumOfElemnt / inputArray.length;
+//     return result;
+// };
+// console.log(calculateAverage([1, 2, 7]));
