@@ -1253,3 +1253,4 @@
 // Write a function that calculates and returns the average of a set of numbers.
 // Input: Array of postive integer numbers
 // Return: Average of numbers
+// Average: Calculated by dividing that total of all the values by the number of values.
