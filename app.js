@@ -1254,3 +1254,4 @@
 // Input: Array of postive integer numbers
 // Return: Average of numbers
 // Average: Calculated by dividing that total of all the values by the number of values.
+// Examle: [1,2,3]: (1+2+3)/3 = 2.333
