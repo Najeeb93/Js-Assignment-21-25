@@ -1258,9 +1258,10 @@
 
 function calculateAverage(inputArray) {
     let sumOfElemnt = 0;
-    for(let i = 0; i < inputArray.lenght; i++) {
-        sumOfElemnt = sumOfElemnt + inputArray[i];
+    for(let i = 0; i < inputArray.length; i++) {
+        sumOfElemnt += inputArray[i];
     }
-    console.log(sumOfElemnt);
+    let  result = sumOfElemnt / inputArray.length;
+    return result;
 };
-console.log(calculateAverage([1,2,4]));
+console.log(calculateAverage([1, 2, 7]));
