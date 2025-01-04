@@ -1249,3 +1249,5 @@
 //     return result;
 // }
 // console.log(calculateFactors(8));
+
+// Write a function that calculates and returns the average of a set of numbers.
