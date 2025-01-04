@@ -1257,8 +1257,9 @@
 // Examle: [1,2,3]: (1+2+3)/3 = 2.333
 
 function calculateAverage(inputArray) {
+    let sumOfElemnt = 0;
     for(let i = 0; i < inputArray.lenght; i++) {
-        console.log(inputArray[i]);
+        sumOfElemnt += inputArray[i];
     }
 };
 console.log(calculateAverage([1,2,3]));
