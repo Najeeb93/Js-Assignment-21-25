@@ -1265,3 +1265,5 @@
 //     return result;
 // };
 // console.log(calculateAverage([1, 2, 7]));
+
+// Write a function that calculates and prints the simple interest on a loan amount.
