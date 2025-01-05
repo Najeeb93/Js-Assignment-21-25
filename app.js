@@ -1271,3 +1271,7 @@
 // Return: Interest amount
 // Simple interest: (Principal * Interest Rate * Time Duration) / 100
 // Example: 1000, 5%, 1 year = (1000 * 5 * 1) / 100 = 50
+
+function calculateInterest(principalAmount, interestRate, durationTime) {
+
+};
