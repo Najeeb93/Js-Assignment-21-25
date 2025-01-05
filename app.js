@@ -1272,9 +1272,9 @@
 // Simple interest: (Principal * Interest Rate * Time Duration) / 100
 // Example: 1000, 5%, 1 year = (1000 * 5 * 1) / 100 = 50
 
-function calculateInterest(principalAmount, interestRate, durationTime) {
-    let multiplicationResult = principalAmount * interestRate * durationTime;
-    let interestAmount = multiplicationResult / 100;
-    return interestAmount;
-};
-console.log(calculateInterest(1000, 5, 1));
+// function calculateInterest(principalAmount, interestRate, durationTime) {
+//     let multiplicationResult = principalAmount * interestRate * durationTime;
+//     let interestAmount = multiplicationResult / 100;
+//     return interestAmount;
+// };
+// console.log(calculateInterest(20000, 10, 5));
