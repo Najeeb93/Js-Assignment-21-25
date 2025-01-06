@@ -1288,3 +1288,4 @@
 //     console.log("Async 2 resolved");
 // })
 
+// Write a function that tells if the given number is prime or not.
