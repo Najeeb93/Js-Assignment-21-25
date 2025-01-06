@@ -1291,3 +1291,4 @@
 // Write a function that tells if the given number is prime or not.
 // Input: A number
 // Return: true if prime and false if not prime
+// Prime number: A number that can only be divided by itself and without remainders
