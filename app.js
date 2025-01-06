@@ -1289,3 +1289,5 @@
 // })
 
 // Write a function that tells if the given number is prime or not.
+// Input: A number
+// Return: true if prime and false if not prime
