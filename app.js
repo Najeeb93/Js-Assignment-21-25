@@ -1292,3 +1292,10 @@
 // Input: A number
 // Return: true if prime and false if not prime
 // Prime number: A number that can only be divided by itself and without remainders
+
+function isPrime(inputNumber) {
+    for(let i = 2; i < inputNumber; i++) {
+        console.log(i);
+    }
+}
+console.log(isPrime(5));
