@@ -1295,7 +1295,7 @@
 
 function isPrime(inputNumber) {
     for(let i = 2; i < inputNumber; i++) {
-        console.log(i);
+        console.log(inputNumber % i);
     }
 }
 console.log(isPrime(5));
