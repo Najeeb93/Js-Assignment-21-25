@@ -1285,5 +1285,6 @@
 //         resolve()
 //     }, 1000)
 // }).then(function() {
-//     console.log("Async 2 reolved");
+//     console.log("Async 2 resolved");
 // })
+
