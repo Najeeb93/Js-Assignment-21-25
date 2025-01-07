@@ -1311,5 +1311,7 @@
 
 function countWord(sentence) {
     const splittedSentence = sentence.split(" ");
+    const nonEmptyElements = splittedSentence.filter((element) => element != '')
+    return nonEmptyElements.length;
 }
-console.log(countWord("Hello World"));
+console.log(countWord("Hello  World"));
