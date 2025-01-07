@@ -1308,3 +1308,8 @@
 // Input: A sentence
 // Return: number of words
 // Example: "This is a sentence": 4
+
+function countWord(sentence) {
+    console.log(sentence);
+}
+console.log(countWord("Hello World"));
