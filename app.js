@@ -1303,3 +1303,5 @@
 //     return result;
 // }
 // console.log(isPrime(4));
+
+// Write a function that counts and returns the number of words  in a sentence.
