@@ -1310,6 +1310,6 @@
 // Example: "This is a sentence": 4
 
 function countWord(sentence) {
-    console.log(sentence);
+    const splittedSentence = sentence.split(" ");
 }
 console.log(countWord("Hello World"));
