@@ -1309,9 +1309,9 @@
 // Return: number of words
 // Example: "This is a sentence": 4
 
-function countWord(sentence) {
-    const splittedSentence = sentence.split(" ");
-    const nonEmptyElements = splittedSentence.filter((element) => element != '')
-    return nonEmptyElements.length;
-}
-console.log(countWord("Hello  World"));
+// function countWord(sentence) {
+//     const splittedSentence = sentence.split(" ");
+//     const nonEmptyElements = splittedSentence.filter((element) => element != '')
+//     return nonEmptyElements.length;
+// }
+// console.log(countWord("Hello  World"));
