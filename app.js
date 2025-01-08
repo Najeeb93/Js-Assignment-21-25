@@ -1324,3 +1324,4 @@
 // Write a program that checks if a number is Armstrong or not
 // Input: A number
 // Output: True if a number is Armstrong and False if number is not a Armsrtong
+// Armstrong: Its a number that is equal to the sum of its own digits raised to the power of the number of digits
