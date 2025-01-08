@@ -1315,3 +1315,6 @@
 //     return nonEmptyElements.length;
 // }
 // console.log(countWord("Hello  World"));
+
+// Write a program that swap two numbers
+// Input: Two numbers a & b
