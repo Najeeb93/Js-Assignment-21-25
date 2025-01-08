@@ -1322,3 +1322,4 @@
 // Example: Input: a = 5, b = 6 => a = 6, b = 5
 
 // Write a program that checks if a number is Armstrong or not
+// Input: A number
