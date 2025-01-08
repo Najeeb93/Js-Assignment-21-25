@@ -1323,3 +1323,4 @@
 
 // Write a program that checks if a number is Armstrong or not
 // Input: A number
+// Output: True if a number is Armstrong and False if number is not a Armsrtong
