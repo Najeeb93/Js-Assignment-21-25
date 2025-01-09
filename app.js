@@ -1331,6 +1331,8 @@ function isArmstrong(inputNumber) {
     
     let lastDigit = number % 10;
     console.log(lastDigit);
+    number = Math.floor(number / 10)
+    
     
 }
 console.log(isArmstrong(153));
