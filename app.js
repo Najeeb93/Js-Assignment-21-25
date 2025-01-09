@@ -1329,10 +1329,13 @@
 function isArmstrong(inputNumber) {
     let number = inputNumber;
     
-    let lastDigit = number % 10;
-    console.log(lastDigit);
-    number = Math.floor(number / 10)
-    
+    while(number > 0) {
+
+        let lastDigit = number % 10;
+        console.log(lastDigit);
+        number = Math.floor(number / 10)
+    }
+
     
 }
 console.log(isArmstrong(153));
