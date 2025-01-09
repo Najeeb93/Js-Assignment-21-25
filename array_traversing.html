@@ -14,10 +14,14 @@
         // Accessing
         // let x = 3;
         // console.log(data[3]);
-        
+        function getElement() {
+            let el = document.getElementById("element").value
+            alert(data[el])
+        }
     </script>
 </head>
 <body>
-    
+    <input type="text" id="element">
+    <button onclick="getElement()">Get Element</button>
 </body>
 </html>
