@@ -1327,7 +1327,10 @@
 // Armstrong: Its a number that is equal to the sum of its own digits raised to the power of the number of digits
 
 function isArmstrong(inputNumber) {
-    console.log(inputNumber);
+    let number = inputNumber;
+    
+    let lastDigit = number % 10;
+    console.log(lastDigit);
     
 }
 console.log(isArmstrong(153));
